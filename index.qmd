@@ -1,0 +1,6 @@
+---
+title: "Sebastián Llorens"
+---
+
+Analista de datos con interés en metodologías interdisciplinarias.
+Aquí encontrarás mis proyectos de visualización, análisis estadístico y modelación.
