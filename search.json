@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Sobre mí",
+    "section": "",
+    "text": "Soy analista de datos con interés en temas ambientales, sociales y artísticos. Trabajo con R, Python y SQL en proyectos de investigación, visualización y modelación."
+  },
+  {
+    "objectID": "proyectos.html",
+    "href": "proyectos.html",
+    "title": "Proyectos",
+    "section": "",
+    "text": "Aquí iré agregando mis proyectos de visualización y modelación.\nPróximamente."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Sebastián Llorens",
+    "section": "",
+    "text": "Analista de datos con interés en metodologías interdisciplinarias. Aquí encontrarás mis proyectos de visualización, análisis estadístico y modelación."
+  }
+]
