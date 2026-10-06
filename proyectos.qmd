@@ -2,7 +2,6 @@
 title: "Proyectos"
 ---
 
-Aquí iré agregando mis proyectos de visualización y modelación.
+## [Energia: transición eléctrica bajo incertidumbre](portafolio/energia.qmd)
 
-*Próximamente.*
----
+Modelo de dinámica de sistemas en R con 125 escenarios. *R · deSolve · ggplot2*
