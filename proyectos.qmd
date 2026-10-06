@@ -1,7 +1,8 @@
 ---
 title: "Proyectos"
+listing:
+  contents: proyectos
+  type: grid
+  sort: "date desc"
+  fields: [image, title, description, categories, date]
 ---
-
-## [Energia: transición eléctrica bajo incertidumbre](portafolio/energia.qmd)
-
-Modelo de dinámica de sistemas en R con 125 escenarios. *R · deSolve · ggplot2*
