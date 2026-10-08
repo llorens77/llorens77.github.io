@@ -128,7 +128,6 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#hipótesis" id="toc-hipótesis" class="nav-link" data-scroll-target="#hipótesis">Hipótesis</a></li>
   <li><a href="#preguntas-abiertas" id="toc-preguntas-abiertas" class="nav-link" data-scroll-target="#preguntas-abiertas">Preguntas abiertas</a></li>
   <li><a href="#limitaciones" id="toc-limitaciones" class="nav-link" data-scroll-target="#limitaciones">Limitaciones</a></li>
-  <li><a href="#cómo-reproducirlo" id="toc-cómo-reproducirlo" class="nav-link" data-scroll-target="#cómo-reproducirlo">Cómo reproducirlo</a></li>
   </ul>
 </nav>
     </div>
@@ -306,17 +305,6 @@ Lo que esta base no incluye
 <li>Las regiones de SIAP no coinciden del todo con las 8 regiones oficiales del estado.</li>
 <li>Las hipótesis son para orientar la investigación, no se prueban estadísticamente aquí.</li>
 </ul>
-</section>
-<section id="cómo-reproducirlo" class="level2">
-<h2 class="anchored" data-anchor-id="cómo-reproducirlo">Cómo reproducirlo</h2>
-<p>El código está en <code>codigo/</code> y los datos limpios en <code>datos/</code>. Los scripts se corren en orden desde la carpeta del proyecto:</p>
-<ol type="1">
-<li><code>01_limpieza.R</code>: lee los Excel de SIAP y escribe los CSV.</li>
-<li><code>02_graficas.R</code>: figuras 1 a 6.</li>
-<li><code>03_mapas.R</code>: mapas (descarga la geografía del INEGI la primera vez).</li>
-<li><code>04_cultivos.R</code>: figuras 10 a 12.</li>
-<li><code>05_hipotesis.R</code>: figuras 13 y 14.</li>
-</ol>
 <p><strong>Fuentes:</strong> SIAP, Anuario Estadístico de la Producción Agrícola (nube.agricultura.gob.mx); INEGI, Marco Geoestadístico 2020; Banco Mundial, índice de precios al consumidor de México.</p>
 
 

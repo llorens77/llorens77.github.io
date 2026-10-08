@@ -74,14 +74,7 @@
     "href": "proyectos/oaxaca/index.html#limitaciones",
     "title": "Oaxaca: brechas en la información agrícola, 2004-2024",
     "section": "Limitaciones",
-    "text": "Limitaciones\n\nSolo cultivos cíclicos registrados; sin perennes, pastos ni cultivos fuera del registro.\nDatos agregados por municipio, sin parcelas ni productores.\nEl valor depende de los precios que reporta SIAP y del deflactor elegido.\nCinco cortes en el tiempo (2004, 2009, 2014, 2019, 2024), sin los años intermedios.\nLas regiones de SIAP no coinciden del todo con las 8 regiones oficiales del estado.\nLas hipótesis son para orientar la investigación, no se prueban estadísticamente aquí."
-  },
-  {
-    "objectID": "proyectos/oaxaca/index.html#cómo-reproducirlo",
-    "href": "proyectos/oaxaca/index.html#cómo-reproducirlo",
-    "title": "Oaxaca: brechas en la información agrícola, 2004-2024",
-    "section": "Cómo reproducirlo",
-    "text": "Cómo reproducirlo\nEl código está en codigo/ y los datos limpios en datos/. Los scripts se corren en orden desde la carpeta del proyecto:\n\n01_limpieza.R: lee los Excel de SIAP y escribe los CSV.\n02_graficas.R: figuras 1 a 6.\n03_mapas.R: mapas (descarga la geografía del INEGI la primera vez).\n04_cultivos.R: figuras 10 a 12.\n05_hipotesis.R: figuras 13 y 14.\n\nFuentes: SIAP, Anuario Estadístico de la Producción Agrícola (nube.agricultura.gob.mx); INEGI, Marco Geoestadístico 2020; Banco Mundial, índice de precios al consumidor de México."
+    "text": "Limitaciones\n\nSolo cultivos cíclicos registrados; sin perennes, pastos ni cultivos fuera del registro.\nDatos agregados por municipio, sin parcelas ni productores.\nEl valor depende de los precios que reporta SIAP y del deflactor elegido.\nCinco cortes en el tiempo (2004, 2009, 2014, 2019, 2024), sin los años intermedios.\nLas regiones de SIAP no coinciden del todo con las 8 regiones oficiales del estado.\nLas hipótesis son para orientar la investigación, no se prueban estadísticamente aquí.\n\nFuentes: SIAP, Anuario Estadístico de la Producción Agrícola (nube.agricultura.gob.mx); INEGI, Marco Geoestadístico 2020; Banco Mundial, índice de precios al consumidor de México."
   },
   {
     "objectID": "proyectos.html",
