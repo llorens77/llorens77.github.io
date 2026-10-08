@@ -100,14 +100,4 @@ Los datos oficiales dejan sin explicar lo que más importa para la investigació
 - Las regiones de SIAP no coinciden del todo con las 8 regiones oficiales del estado.
 - Las hipótesis son para orientar la investigación, no se prueban estadísticamente aquí.
 
-## Cómo reproducirlo
-
-El código está en `codigo/` y los datos limpios en `datos/`. Los scripts se corren en orden desde la carpeta del proyecto:
-
-1. `01_limpieza.R`: lee los Excel de SIAP y escribe los CSV.
-2. `02_graficas.R`: figuras 1 a 6.
-3. `03_mapas.R`: mapas (descarga la geografía del INEGI la primera vez).
-4. `04_cultivos.R`: figuras 10 a 12.
-5. `05_hipotesis.R`: figuras 13 y 14.
-
 **Fuentes:** SIAP, Anuario Estadístico de la Producción Agrícola (nube.agricultura.gob.mx); INEGI, Marco Geoestadístico 2020; Banco Mundial, índice de precios al consumidor de México.
