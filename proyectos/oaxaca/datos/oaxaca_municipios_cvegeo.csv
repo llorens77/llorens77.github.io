@@ -1,0 +1,571 @@
+municipio,region,cvegeo
+Concepción Pápalo,Cañada,20019
+Cuyamecalco Villa de Zaragoza,Cañada,20024
+Mazatlán Villa de Flores,Cañada,20058
+San Antonio Nanahuatípam,Cañada,20109
+San Juan Bautista Cuicatlán,Cañada,20177
+San Juan Tepeuxila,Cañada,20220
+San Juan de Los Cués,Cañada,20206
+San Martín Toxpalan,Cañada,20244
+Santa María Chilchotla,Cañada,20406
+Santa María Tecomavaca,Cañada,20431
+Santa María Texcatitlán,Cañada,20436
+Santiago Nacaltepec,Cañada,20478
+Santos Reyes Pápalo,Cañada,20527
+Teotitlán de Flores Magón,Cañada,20545
+Valerio Trujano,Cañada,20558
+Pinotepa de Don Luis,Costa,20070
+San Agustín Chayuco,Costa,20082
+San Andrés Huaxpaltepec,Costa,20090
+San Antonio Tepetlapa,Costa,20111
+San Gabriel Mixtepec,Costa,20153
+San Juan Cacahuatepec,Costa,20185
+San Juan Colorado,Costa,20188
+San Juan Lachao,Costa,20202
+San Lorenzo,Costa,20225
+San Miguel Panixtlahuaca,Costa,20272
+San Miguel Tlacamama,Costa,20285
+San Pedro Atoyac,Costa,20302
+San Pedro Juchatengo,Costa,20314
+San Pedro Mixtepec,Costa,20318
+San Sebastián Ixcapa,Costa,20345
+Santa Catarina Juquila,Costa,20364
+Santa Catarina Mechoacán,Costa,20367
+Santa María Colotepec,Costa,20401
+Santa María Huatulco,Costa,20413
+Santa María Huazolotitlán,Costa,20414
+Santa María Temaxcaltepec,Costa,20433
+Santa María Tonameca,Costa,20439
+Santiago Ixtayutla,Costa,20466
+Santiago Jamiltepec,Costa,20467
+Santiago Llano Grande,Costa,20474
+Santiago Pinotepa Nacional,Costa,20482
+Santo Domingo de Morelos,Costa,20509
+Santos Reyes Nopala,Costa,20526
+Tataltepec de Valdés,Costa,20543
+Villa de Tututepec,Costa,20334
+Asunción Ixtaltepec,Istmo,20005
+Asunción Tlacolulita,Istmo,20008
+Ciudad Ixtepec,Istmo,20014
+El Espinal,Istmo,20030
+Heroica Ciudad de Juchitán de Zaragoza,Istmo,20043
+Heroica Villa de San Blas Atempa,Istmo,20124
+Magdalena Tequisistlán,Istmo,20052
+Magdalena Tlacotepec,Istmo,20053
+Nejapa de Madero,Istmo,20064
+San Carlos Yautepec,Istmo,20125
+San Pedro Comitancillo,Istmo,20305
+San Pedro Huamelula,Istmo,20307
+San Pedro Huilotepec,Istmo,20308
+San Pedro Mártir Quiechapa,Istmo,20316
+Santa Ana Tavela,Istmo,20357
+Santa María Jalapa del Marqués,Istmo,20418
+Santa María Mixtequilla,Istmo,20421
+Santa María Xadani,Istmo,20441
+Santiago Astata,Istmo,20453
+Santiago Laollaga,Istmo,20472
+Santo Domingo Chihuitán,Istmo,20508
+Santo Domingo Tehuantepec,Istmo,20515
+Unión Hidalgo,Istmo,20557
+Asunción Cuyotepeji,Mixteca,20004
+Calihualá,Mixteca,20011
+Chalcatongo de Hidalgo,Mixteca,20026
+Coicoyán de Las Flores,Mixteca,20016
+Concepción Buenavista,Mixteca,20018
+Constancia del Rosario,Mixteca,20020
+Guadalupe de Ramírez,Mixteca,20034
+"H. V. Tezoatlán de Segura y Luna, C. de la I.de O.",Mixteca,20549
+Heroica Ciudad de Huajuapan de León,Mixteca,20039
+Heroica Ciudad de Tlaxiaco,Mixteca,20397
+La Reforma,Mixteca,20076
+Magdalena Jaltepec,Mixteca,20046
+Magdalena Zahuatlán,Mixteca,20054
+Mariscala de Juárez,Mixteca,20055
+Mesones Hidalgo,Mixteca,20037
+Putla Villa de Guerrero,Mixteca,20073
+San Agustín Atenango,Mixteca,20081
+San Agustín Tlacotepec,Mixteca,20086
+San Andrés Cabecera Nueva,Mixteca,20088
+San Andrés Dinicuiti,Mixteca,20089
+San Andrés Nuxiño,Mixteca,20094
+San Andrés Sinaxtla,Mixteca,20096
+San Esteban Atatlahuca,Mixteca,20133
+San Francisco Nuxaño,Mixteca,20147
+San Francisco Tlapancingo,Mixteca,20152
+San Jorge Nuchita,Mixteca,20164
+San Juan Achiutla,Mixteca,20172
+San Juan Bautista Suchitepec,Mixteca,20181
+San Juan Bautista Tlachichilco,Mixteca,20183
+San Juan Mixtepec,Mixteca,20208
+San Juan Sayultepec,Mixteca,20215
+San Juan Tamazola,Mixteca,20217
+San Juan Teita,Mixteca,20218
+San Juan Yucuita,Mixteca,20224
+San Juan Ñumí,Mixteca,20210
+San Lorenzo Victoria,Mixteca,20230
+San Marcos Arteaga,Mixteca,20237
+San Martín Huamelúlpam,Mixteca,20239
+San Martín Zacatepec,Mixteca,20245
+San Mateo Etlatongo,Mixteca,20250
+San Mateo Nejápam,Mixteca,20251
+San Mateo Peñasco,Mixteca,20252
+San Mateo Sindihui,Mixteca,20255
+San Miguel Achiutla,Mixteca,20258
+San Miguel Ahuehuetitlán,Mixteca,20259
+San Miguel Amatitlán,Mixteca,20261
+San Miguel El Grande,Mixteca,20269
+San Miguel Huautla,Mixteca,20270
+San Miguel Tlacotepec,Mixteca,20286
+San Nicolás Hidalgo,Mixteca,20290
+San Pablo Tijaltepec,Mixteca,20297
+San Pedro Amuzgos,Mixteca,20300
+San Pedro Molinos,Mixteca,20320
+San Pedro Teozacoalco,Mixteca,20329
+San Pedro Y San Pablo Tequixtepec,Mixteca,20340
+San Sebastián Tecomaxtlahuaca,Mixteca,20348
+San Vicente Nuñú,Mixteca,20536
+Santa Catarina Ticuá,Mixteca,20371
+Santa Catarina Zapoquila,Mixteca,20373
+Santa Cruz Itundujia,Mixteca,20377
+Santa Cruz Tacache de Mina,Mixteca,20381
+Santa María Apazco,Mixteca,20395
+Santa María Camotlán,Mixteca,20400
+Santa María Chachoápam,Mixteca,20404
+Santa María Ipalapa,Mixteca,20415
+Santa María Yosoyúa,Mixteca,20445
+Santa María Yucuhiti,Mixteca,20446
+Santa María Zacatepec,Mixteca,20447
+Santiago Apoala,Mixteca,20451
+Santiago Cacaloxtepec,Mixteca,20456
+Santiago Huajolotitlán,Mixteca,20462
+Santiago Huauclilla,Mixteca,20463
+Santiago Juxtlahuaca,Mixteca,20469
+Santiago Miltepec,Mixteca,20476
+Santiago Nuyoó,Mixteca,20481
+Santiago Tamazola,Mixteca,20484
+Santiago Tillo,Mixteca,20493
+Santiago Yosondúa,Mixteca,20500
+Santiago del Río,Mixteca,20461
+Santo Domingo Tonalá,Mixteca,20520
+Santo Domingo Yodohino,Mixteca,20524
+Santos Reyes Tepejillo,Mixteca,20528
+Silacayoápam,Mixteca,20537
+Teotongo,Mixteca,20547
+Villa Tejúpam de La Unión,Mixteca,20486
+Villa de Santiago Chazumba,Mixteca,20459
+Villa de Tamazulápam del Progreso,Mixteca,20540
+Yutanduchi de Guerrero,Mixteca,20564
+Zapotitlán Lagunas,Mixteca,20567
+Capulálpam de Méndez,Sierra Juárez,20247
+Guelatao de Juárez,Sierra Juárez,20035
+Ixtlán de Juárez,Sierra Juárez,20042
+Nuevo Zoquiápam,Sierra Juárez,20504
+San Andrés Solaga,Sierra Juárez,20097
+San Cristóbal Lachirioag,Sierra Juárez,20128
+San Ildefonso Villa Alta,Sierra Juárez,20156
+San Juan Atepec,Sierra Juárez,20173
+San Juan Chicomezúchil,Sierra Juárez,20191
+San Juan Juquila Mixes,Sierra Juárez,20200
+San Juan Juquila Vijanos,Sierra Juárez,20201
+San Juan Tabaá,Sierra Juárez,20216
+San Juan Yatzona,Sierra Juárez,20223
+San Melchor Betaza,Sierra Juárez,20257
+San Pablo Yaganiza,Sierra Juárez,20299
+San Pedro Ocotepec,Sierra Juárez,20323
+Santa Catarina Ixtepeji,Sierra Juárez,20363
+Santa Catarina Lachatao,Sierra Juárez,20365
+Santa María Alotepec,Sierra Juárez,20394
+Santa María Temaxcalapa,Sierra Juárez,20432
+Santiago Atitlán,Sierra Juárez,20454
+Santiago Camotlán,Sierra Juárez,20457
+Santiago Xiacuí,Sierra Juárez,20496
+Santiago Zoochila,Sierra Juárez,20503
+Santo Domingo Xagacía,Sierra Juárez,20522
+Villa Talea de Castro,Sierra Juárez,20280
+Asunción Ocotlán,Valles Centrales,20007
+Ayoquezco de Aldama,Valles Centrales,20398
+Ciénega de Zimatlán,Valles Centrales,20013
+Coatecas Altas,Valles Centrales,20015
+Cuilápam de Guerrero,Valles Centrales,20023
+Guadalupe Etla,Valles Centrales,20033
+Heroica Ciudad de Ejutla de Crespo,Valles Centrales,20028
+Heroico San Martín de los Cansecos,Valles Centrales,20238
+La Compañía,Valles Centrales,20017
+La Pe,Valles Centrales,20069
+Magdalena Apasco,Valles Centrales,20045
+Magdalena Mixtepec,Valles Centrales,20048
+Magdalena Ocotlán,Valles Centrales,20049
+Miahuatlán de Porfirio Díaz,Valles Centrales,20059
+Monjas,Valles Centrales,20061
+Nazareno Etla,Valles Centrales,20063
+Oaxaca de Juárez,Valles Centrales,20067
+Ocotlán de Morelos,Valles Centrales,20068
+Reyes Etla,Valles Centrales,20077
+Rojas de Cuauhtémoc,Valles Centrales,20078
+San Agustín Amatengo,Valles Centrales,20080
+San Agustín Etla,Valles Centrales,20084
+San Agustín Yatareni,Valles Centrales,20087
+San Agustín de Las Juntas,Valles Centrales,20083
+San Andrés Huayápam,Valles Centrales,20091
+San Andrés Ixtlahuaca,Valles Centrales,20092
+San Andrés Paxtlán,Valles Centrales,20095
+San Andrés Zabache,Valles Centrales,20101
+San Andrés Zautla,Valles Centrales,20102
+San Antonino Castillo Velasco,Valles Centrales,20103
+San Antonino El Alto,Valles Centrales,20104
+San Antonio Huitepec,Valles Centrales,20108
+San Antonio de La Cal,Valles Centrales,20107
+San Baltazar Chichicápam,Valles Centrales,20112
+San Bartolo Coyotepec,Valles Centrales,20115
+San Bartolomé Quialana,Valles Centrales,20118
+San Bernardo Mixtepec,Valles Centrales,20123
+San Cristóbal Amatlán,Valles Centrales,20126
+San Dionisio Ocotepec,Valles Centrales,20131
+San Dionisio Ocotlán,Valles Centrales,20132
+San Felipe Tejalápam,Valles Centrales,20135
+San Francisco Cahuacuá,Valles Centrales,20137
+San Francisco Lachigoló,Valles Centrales,20145
+San Francisco Sola,Valles Centrales,20149
+San Francisco Telixtlahuaca,Valles Centrales,20150
+San Ildefonso Amatlán,Valles Centrales,20154
+San Ildefonso Sola,Valles Centrales,20155
+San Jacinto Amilpas,Valles Centrales,20157
+San Jacinto Tlacotepec,Valles Centrales,20158
+San Jerónimo Coatlán,Valles Centrales,20159
+San Jerónimo Sosola,Valles Centrales,20161
+San Jerónimo Taviche,Valles Centrales,20162
+San Jerónimo Tlacochahuaya,Valles Centrales,20550
+San José del Peñasco,Valles Centrales,20167
+San José del Progreso,Valles Centrales,20072
+San Juan Bautista Atatlahuca,Valles Centrales,20175
+San Juan Bautista Guelache,Valles Centrales,20178
+San Juan Bautista Jayacatlán,Valles Centrales,20179
+San Juan Chilateca,Valles Centrales,20192
+San Juan Guelavía,Valles Centrales,20197
+San Juan Teitipac,Valles Centrales,20219
+San Juan del Estado,Valles Centrales,20193
+San Juan del Río,Valles Centrales,20194
+San Lorenzo Albarradas,Valles Centrales,20226
+San Lorenzo Cacaotepec,Valles Centrales,20227
+San Lorenzo Texmelúcan,Valles Centrales,20229
+San Lucas Quiaviní,Valles Centrales,20233
+San Luis Amatlán,Valles Centrales,20235
+San Martín Lachilá,Valles Centrales,20241
+San Martín Tilcajete,Valles Centrales,20243
+San Mateo Yucutindoo,Valles Centrales,20566
+San Miguel Coatlán,Valles Centrales,20263
+San Miguel Ejutla,Valles Centrales,20268
+San Miguel Mixtepec,Valles Centrales,20271
+San Miguel Peras,Valles Centrales,20273
+San Miguel Tilquiápam,Valles Centrales,20284
+San Nicolás,Valles Centrales,20289
+San Pablo Coatlán,Valles Centrales,20291
+San Pablo Cuatro Venados,Valles Centrales,20292
+San Pablo Etla,Valles Centrales,20293
+San Pablo Huitzo,Valles Centrales,20294
+San Pablo Huixtepec,Valles Centrales,20295
+San Pablo Villa de Mitla,Valles Centrales,20298
+San Pedro Apóstol,Valles Centrales,20301
+San Pedro Ixtlahuaca,Valles Centrales,20310
+San Pedro Mártir,Valles Centrales,20315
+San Pedro Quiatoni,Valles Centrales,20325
+San Pedro Taviche,Valles Centrales,20328
+San Pedro Totolápam,Valles Centrales,20333
+San Raymundo Jalpan,Valles Centrales,20342
+San Sebastián Abasolo,Valles Centrales,20343
+San Sebastián Teitipac,Valles Centrales,20349
+San Simón Almolongas,Valles Centrales,20351
+Santa Ana,Valles Centrales,20353
+Santa Ana Tlapacoyan,Valles Centrales,20358
+Santa Ana Zegache,Valles Centrales,20360
+Santa Catarina Minas,Valles Centrales,20368
+Santa Catarina Quiané,Valles Centrales,20369
+Santa Cruz Amilpas,Valles Centrales,20375
+Santa Cruz Mixtepec,Valles Centrales,20378
+Santa Cruz Papalutla,Valles Centrales,20380
+Santa Cruz Xitla,Valles Centrales,20384
+Santa Cruz Xoxocotlán,Valles Centrales,20385
+Santa Cruz Zenzontepec,Valles Centrales,20386
+Santa Gertrudis,Valles Centrales,20387
+Santa Inés Yatzeche,Valles Centrales,20389
+Santa Inés del Monte,Valles Centrales,20388
+Santa Lucía Ocotlán,Valles Centrales,20393
+Santa Lucía del Camino,Valles Centrales,20390
+Santa María Atzompa,Valles Centrales,20399
+Santa María Coyotepec,Valles Centrales,20403
+Santa María Guelacé,Valles Centrales,20411
+Santa María Peñoles,Valles Centrales,20426
+Santa María Sola,Valles Centrales,20429
+Santa María Zaniza,Valles Centrales,20448
+Santa María Zoquitlán,Valles Centrales,20449
+Santa María del Tule,Valles Centrales,20409
+Santiago Apóstol,Valles Centrales,20452
+Santiago Matatlán,Valles Centrales,20475
+Santiago Minas,Valles Centrales,20477
+Santiago Suchilquitongo,Valles Centrales,20483
+Santiago Tenango,Valles Centrales,20487
+Santiago Textitlán,Valles Centrales,20491
+Santiago Tlazoyaltepec,Valles Centrales,20494
+Santiago Xanica,Valles Centrales,20495
+Santo Domingo Albarradas,Valles Centrales,20506
+Santo Domingo Teojomulco,Valles Centrales,20516
+Santo Domingo Tomaltepec,Valles Centrales,20519
+Santo Tomás Jalieza,Valles Centrales,20530
+Santo Tomás Mazaltepec,Valles Centrales,20531
+Santo Tomás Tamazulapan,Valles Centrales,20533
+Sitio de Xitlapehua,Valles Centrales,20538
+Soledad Etla,Valles Centrales,20539
+Taniche,Valles Centrales,20542
+Teotitlán del Valle,Valles Centrales,20546
+Tlacolula de Matamoros,Valles Centrales,20551
+Tlalixtac de Cabrera,Valles Centrales,20553
+Trinidad Zaachila,Valles Centrales,20555
+Villa Díaz Ordaz,Valles Centrales,20560
+Villa Sola de Vega,Valles Centrales,20277
+Villa de Etla,Valles Centrales,20338
+Villa de Zaachila,Valles Centrales,20565
+Yaxe,Valles Centrales,20561
+Yogana,Valles Centrales,20563
+Zimatlán de Álvarez,Valles Centrales,20570
+Ánimas Trujano,Valles Centrales,20174
+Chiquihuitlán de Benito Juárez,Cañada,20027
+Eloxochitlán de Flores Magón,Cañada,20029
+Huautepec,Cañada,20040
+Huautla de Jiménez,Cañada,20041
+San Andrés Teotilálpam,Cañada,20098
+San Bartolomé Ayautla,Cañada,20116
+San Francisco Chapulapa,Cañada,20139
+San Francisco Huehuetlán,Cañada,20142
+San Jerónimo Tecóatl,Cañada,20163
+San José Tenango,Cañada,20171
+San Juan Bautista Tlacoatzintepec,Cañada,20182
+San Juan Coatzóspam,Cañada,20187
+San Lorenzo Cuaunecuiltitla,Cañada,20228
+San Lucas Zoquiápam,Cañada,20234
+San Mateo Yoloxochitlán,Cañada,20249
+San Miguel Santa Flor,Cañada,20276
+San Pedro Jaltepetongo,Cañada,20311
+San Pedro Jocotipac,Cañada,20313
+San Pedro Ocopetatillo,Cañada,20322
+San Pedro Sochiápam,Cañada,20326
+San Pedro Teutila,Cañada,20330
+Santa Ana Ateixtlahuaca,Cañada,20354
+Santa Ana Cuauhtémoc,Cañada,20355
+Santa Cruz Acatepec,Cañada,20374
+Santa María Ixcatlán,Cañada,20416
+Santa María La Asunción,Cañada,20396
+Santa María Pápalo,Cañada,20425
+Santa María Teopoxco,Cañada,20434
+Santa María Tlalixtac,Cañada,20438
+Santiago Texcalcingo,Cañada,20490
+Candelaria Loxicha,Costa,20012
+Mártires de Tacubaya,Costa,20056
+Pluma Hidalgo,Costa,20071
+San Agustín Loxicha,Costa,20085
+San Baltazar Loxicha,Costa,20113
+San Bartolomé Loxicha,Costa,20117
+San José Estancia Grande,Costa,20168
+San Juan Bautista Lo de Soto,Costa,20180
+San Juan Quiahije,Costa,20213
+San Mateo Piñas,Costa,20253
+San Miguel del Puerto,Costa,20266
+San Pedro El Alto,Costa,20306
+San Pedro Jicayán,Costa,20312
+San Pedro Pochutla,Costa,20324
+Santa Catarina Loxicha,Costa,20366
+Santa María Cortijo,Costa,20402
+Santiago Tapextla,Costa,20485
+Santiago Tetepec,Costa,20489
+Santiago Yaitepec,Costa,20497
+Santo Domingo Armenta,Costa,20507
+Chahuites,Istmo,20025
+El Barrio de la Soledad,Istmo,20010
+Guevea de Humboldt,Istmo,20036
+Matías Romero Avendaño,Istmo,20057
+Reforma de Pineda,Istmo,20075
+Salina Cruz,Istmo,20079
+San Bartolo Yautepec,Istmo,20122
+San Dionisio del Mar,Istmo,20130
+San Francisco Ixhuatán,Istmo,20143
+San Francisco del Mar,Istmo,20141
+San Juan Guichicovi,Istmo,20198
+San Juan Lajarcia,Istmo,20204
+San Juan Mazatlán,Istmo,20207
+San Mateo del Mar,Istmo,20248
+San Miguel Chimalapa,Istmo,20265
+San Miguel Tenango,Istmo,20282
+San Pedro Tapanatepec,Istmo,20327
+Santa Catalina Quierí,Istmo,20361
+Santa Catarina Quioquitani,Istmo,20074
+Santa María Chimalapa,Istmo,20407
+Santa María Ecatepec,Istmo,20410
+Santa María Guienagati,Istmo,20412
+Santa María Petapa,Istmo,20427
+Santa María Quiegolani,Istmo,20428
+Santa María Totolapilla,Istmo,20440
+Santiago Ixcuintepec,Istmo,20465
+Santiago Lachiguiri,Istmo,20470
+Santiago Niltepec,Istmo,20066
+Santo Domingo Ingenio,Istmo,20505
+Santo Domingo Petapa,Istmo,20513
+Santo Domingo Zanatepec,Istmo,20525
+Asunción Nochixtlán,Mixteca,20006
+Cosoltepec,Mixteca,20022
+Fresnillo de Trujano,Mixteca,20032
+Ixpantepec Nieves,Mixteca,20065
+La Trinidad Vista Hermosa,Mixteca,20556
+Magdalena Peñasco,Mixteca,20050
+Magdalena Yodocono de Porfirio Díaz,Mixteca,20562
+San Andrés Lagunas,Mixteca,20093
+San Andrés Tepetlapa,Mixteca,20099
+San Antonino Monte Verde,Mixteca,20105
+San Antonio Acutla,Mixteca,20106
+San Antonio Sinicahua,Mixteca,20110
+San Bartolo Soyaltepec,Mixteca,20121
+San Bartolomé Yucuañe,Mixteca,20119
+San Cristóbal Amoltepec,Mixteca,20127
+San Cristóbal Suchixtlahuaca,Mixteca,20129
+San Francisco Chindúa,Mixteca,20140
+San Francisco Jaltepetongo,Mixteca,20144
+San Francisco Teopan,Mixteca,20151
+San Jerónimo Silacayoapilla,Mixteca,20160
+San José Ayuquila,Mixteca,20165
+San Juan Bautista Coixtlahuaca,Mixteca,20176
+San Juan Cieneguilla,Mixteca,20186
+San Juan Diuxi,Mixteca,20195
+San Juan Ihualtepec,Mixteca,20199
+San Juan Teposcolula,Mixteca,20221
+San Martín Itunyoso,Mixteca,20240
+San Martín Peras,Mixteca,20242
+San Mateo Tlapiltepec,Mixteca,20256
+San Miguel Chicahua,Mixteca,20264
+San Miguel Piedras,Mixteca,20274
+San Miguel Tecomatlán,Mixteca,20281
+San Miguel Tequixtepec,Mixteca,20283
+San Miguel Tulancingo,Mixteca,20287
+San Pedro Coxcaltepec Cántaros,Mixteca,20304
+San Pedro Mártir Yucuxaco,Mixteca,20317
+San Pedro Nopala,Mixteca,20321
+San Pedro Tidaá,Mixteca,20331
+San Pedro Topiltepec,Mixteca,20332
+San Pedro Y San Pablo Teposcolula,Mixteca,20339
+San Pedro Yucunama,Mixteca,20341
+San Sebastián Nicananduta,Mixteca,20346
+San Simón Zahuatlán,Mixteca,20352
+Santa Catarina Tayata,Mixteca,20370
+Santa Catarina Yosonotú,Mixteca,20372
+Santa Cruz Nundaco,Mixteca,20379
+Santa Cruz Tacahua,Mixteca,20382
+Santa Cruz Tayata,Mixteca,20383
+Santa Cruz de Bravo,Mixteca,20376
+Santa Inés de Zaragoza,Mixteca,20569
+Santa Lucía Monteverde,Mixteca,20392
+Santa Magdalena Jicotlán,Mixteca,20047
+Santa María Nativitas,Mixteca,20422
+Santa María Nduayaco,Mixteca,20423
+Santa María Tataltepec,Mixteca,20430
+Santa María Yolotepec,Mixteca,20444
+Santa María del Rosario,Mixteca,20408
+Santiago Ayuquililla,Mixteca,20455
+Santiago Ihuitlán Plumas,Mixteca,20464
+Santiago Nejapilla,Mixteca,20479
+Santiago Nundiche,Mixteca,20480
+Santiago Tepetlapa,Mixteca,20488
+Santiago Tilantongo,Mixteca,20492
+Santiago Yolomécatl,Mixteca,20499
+Santiago Yucuyachi,Mixteca,20501
+Santo Domingo Ixcatlán,Mixteca,20510
+Santo Domingo Nuxaá,Mixteca,20511
+Santo Domingo Tlatayápam,Mixteca,20518
+Santo Domingo Tonaltepec,Mixteca,20521
+Santo Domingo Yanhuitlán,Mixteca,20523
+Santo Tomás Ocotepec,Mixteca,20532
+Santos Reyes Yucuná,Mixteca,20529
+Tepelmeme Villa de Morelos,Mixteca,20548
+Tlacotepec Plumas,Mixteca,20552
+Villa de Chilapa de Díaz,Mixteca,20405
+Zapotitlán Palmas,Mixteca,20568
+Acatlán de Pérez Figueroa,Papaloapan,20002
+Ayotzintepec,Papaloapan,20009
+Cosolapa,Papaloapan,20021
+Loma Bonita,Papaloapan,20044
+San Felipe Jalapa de Díaz,Papaloapan,20134
+San Felipe Usila,Papaloapan,20136
+San José Chiltepec,Papaloapan,20166
+San José Independencia,Papaloapan,20169
+San Juan Bautista Tuxtepec,Papaloapan,20184
+San Juan Bautista Valle Nacional,Papaloapan,20559
+San Juan Comaltepec,Papaloapan,20189
+San Juan Cotzocón,Papaloapan,20190
+San Juan Lalana,Papaloapan,20205
+San Juan Petlapa,Papaloapan,20212
+San Lucas Ojitlán,Papaloapan,20232
+San Miguel Soyaltepec,Papaloapan,20278
+San Pedro Ixcatlán,Papaloapan,20309
+Santa María Jacatepec,Papaloapan,20417
+Santiago Choápam,Papaloapan,20460
+Santiago Jocotepec,Papaloapan,20468
+Santiago Yaveo,Papaloapan,20498
+Abejones,Sierra Juárez,20001
+Asunción Cacalotepec,Sierra Juárez,20003
+Mixistlán de La Reforma,Sierra Juárez,20060
+Natividad,Sierra Juárez,20062
+San Andrés Yaá,Sierra Juárez,20100
+San Baltazar Yatzachi El Bajo,Sierra Juárez,20114
+San Bartolomé Zoogocho,Sierra Juárez,20120
+San Francisco Cajonos,Sierra Juárez,20138
+San Juan Evangelista Analco,Sierra Juárez,20196
+San Juan Quiotepec,Sierra Juárez,20214
+San Juan Yaeé,Sierra Juárez,20222
+San Lucas Camotlán,Sierra Juárez,20231
+San Mateo Cajonos,Sierra Juárez,20246
+San Miguel Aloápam,Sierra Juárez,20260
+San Miguel Amatlán,Sierra Juárez,20262
+San Miguel Quetzaltepec,Sierra Juárez,20275
+San Miguel Yotao,Sierra Juárez,20288
+San Miguel del Río,Sierra Juárez,20267
+San Pablo Macuiltianguis,Sierra Juárez,20296
+San Pedro Cajonos,Sierra Juárez,20303
+San Pedro Y San Pablo Ayutla,Sierra Juárez,20337
+San Pedro Yaneri,Sierra Juárez,20335
+San Pedro Yólox,Sierra Juárez,20336
+Santa Ana Yareni,Sierra Juárez,20359
+Santa María Jaltianguis,Sierra Juárez,20419
+Santa María Tepantlali,Sierra Juárez,20435
+Santa María Tlahuitoltepec,Sierra Juárez,20437
+Santa María Yalina,Sierra Juárez,20442
+Santa María Yavesía,Sierra Juárez,20443
+Santiago Comaltepec,Sierra Juárez,20458
+Santiago Lalopa,Sierra Juárez,20471
+Santiago Laxopa,Sierra Juárez,20473
+Santiago Zacatepec,Sierra Juárez,20502
+Santo Domingo Roayaga,Sierra Juárez,20514
+Santo Domingo Tepuxtepec,Sierra Juárez,20517
+Tamazulápam del Espíritu Santo,Sierra Juárez,20031
+Tanetze de Zaragoza,Sierra Juárez,20541
+Teococuilco de Marcos Pérez,Sierra Juárez,20544
+Totontepec Villa de Morelos,Sierra Juárez,20554
+Villa Hidalgo Yalálag,Sierra Juárez,20038
+Magdalena Teitipac,Valles Centrales,20051
+San Francisco Logueche,Valles Centrales,20146
+San Francisco Ozolotepec,Valles Centrales,20148
+San José Lachiguiri,Valles Centrales,20170
+San Juan Lachigalla,Valles Centrales,20203
+San Juan Mixtepec,Valles Centrales,20209
+San Juan Ozolotepec,Valles Centrales,20211
+San Marcial Ozolotepec,Valles Centrales,20236
+San Mateo Río Hondo,Valles Centrales,20254
+San Miguel Suchixtepec,Valles Centrales,20279
+San Pedro Mixtepec,Valles Centrales,20319
+San Sebastián Coatlán,Valles Centrales,20344
+San Sebastián Río Hondo,Valles Centrales,20347
+San Sebastián Tutla,Valles Centrales,20350
+San Vicente Coatlán,Valles Centrales,20534
+San Vicente Lachixío,Valles Centrales,20535
+Santa Ana del Valle,Valles Centrales,20356
+Santa Catarina Cuixtla,Valles Centrales,20362
+Santa Lucía Miahuatlán,Valles Centrales,20391
+Santa María Lachixío,Valles Centrales,20420
+Santa María Ozolotepec,Valles Centrales,20424
+Santiago Amoltepec,Valles Centrales,20450
+Santo Domingo Ozolotepec,Valles Centrales,20512

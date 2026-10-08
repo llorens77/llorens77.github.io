@@ -1,0 +1,482 @@
+region,anio,cultivo,sup_sembrada_ha,valor_miles_pesos,grupo,valor_real_miles_pesos_2024
+Cañada,2004,Frijol,1194,7775.65,Frijol,18524.515427005186
+Cañada,2004,Maíz grano,36894,107105.91,Maíz,255166.45966812153
+Cañada,2004,Melón,60,4071,Hortalizas y frutas,9698.64928376896
+Cañada,2004,Tomate rojo (jitomate),80,11503.58,Hortalizas y frutas,27405.84326400858
+Cañada,2004,Tomate verde,12,482.31,Hortalizas y frutas,1149.0433642973735
+Cañada,2004,Trigo grano,276,365.71,Otros granos y forrajes,871.2584204291688
+Cañada,2009,Frijol,1319,9794.14,Frijol,18814.446393689974
+Cañada,2009,Maíz grano,36161,140789.2,Maíz,270454.6653621958
+Cañada,2009,Melón,88,6013.58,Hortalizas y frutas,11552.027900782115
+Cañada,2009,Tomate rojo (jitomate),54,5408.16,Hortalizas y frutas,10389.022048745308
+Cañada,2009,Tomate verde,22.5,1056.06,Hortalizas y frutas,2028.6808498265527
+Cañada,2009,Trigo grano,268,249.01,Otros granos y forrajes,478.3457553693066
+Cañada,2014,Frijol,1542.5,12900.36,Frijol,20467.000806194905
+Cañada,2014,Maíz grano,36725,149641.66,Maíz,237413.21760480668
+Cañada,2014,Melón,74,7242.83,Hortalizas y frutas,11491.07524511972
+Cañada,2014,Tomate rojo (jitomate),105.81,22743.21,Hortalizas y frutas,36083.12461089923
+Cañada,2014,Tomate verde,35.5,2330.78,Hortalizas y frutas,3697.8872015248385
+Cañada,2014,Trigo grano,245,439.48,Otros granos y forrajes,697.25476764265
+Cañada,2019,Calabacita,35.75,6098.44,Hortalizas y frutas,7946.385570673281
+Cañada,2019,Frijol,1466.18,13178.13,Frijol,17171.358918093265
+Cañada,2019,Maíz grano,29900.65,147012.18,Maíz,191559.72115249524
+Cañada,2019,Melón,100.15,14241.54,Hortalizas y frutas,18557.00276794826
+Cañada,2019,Tomate rojo (jitomate),103.24,22962.69,Hortalizas y frutas,29920.83032379488
+Cañada,2019,Tomate verde,45.35,2866.7,Hortalizas y frutas,3735.3656862163266
+Cañada,2019,Trigo grano,214.5,800.8,Otros granos y forrajes,1043.4579277643404
+Cañada,2024,Calabacita,26.8,4762.62,Hortalizas y frutas,4762.62
+Cañada,2024,Frijol,855.35,9223.58,Frijol,9223.58
+Cañada,2024,Maíz grano,29130.5,204675.41,Maíz,204675.41
+Cañada,2024,Melón,81.8,12706.45,Hortalizas y frutas,12706.45
+Cañada,2024,Tomate rojo (jitomate),79.19,27839.67,Hortalizas y frutas,27839.67
+Cañada,2024,Tomate verde,57.9,4397.45,Hortalizas y frutas,4397.45
+Cañada,2024,Trigo grano,120.75,525.93,Otros granos y forrajes,525.93
+Costa,2004,Ajonjolí,1605,7614,"Ajonjolí, cacahuate y jamaica",18139.404482096994
+Costa,2004,Cacahuate,4650,38185,"Ajonjolí, cacahuate y jamaica",90970.99555409426
+Costa,2004,Chile verde,920,15991,Hortalizas y frutas,38096.5612126626
+Costa,2004,Frijol,3184,23754.28,Frijol,56591.60665891607
+Costa,2004,Jamaica,2385,22200,"Ajonjolí, cacahuate y jamaica",52888.728592402585
+Costa,2004,Maíz grano,83065,237318.2,Maíz,565380.985127816
+Costa,2004,Melón,90,5398.4,Hortalizas y frutas,12861.014073568744
+Costa,2004,Sandía,180,10260,Hortalizas y frutas,24443.169160272544
+Costa,2004,Sorgo forrajero en verde,130,468,Otros granos y forrajes,1114.9515757317301
+Costa,2004,Sorgo grano,190,950,Otros granos y forrajes,2263.2564037289394
+Costa,2004,Tomate rojo (jitomate),22,907.5,Hortalizas y frutas,2162.005459351592
+Costa,2009,Ajonjolí,816,3855.44,"Ajonjolí, cacahuate y jamaica",7406.2622347738625
+Costa,2009,Cacahuate,5520,42232.62,"Ajonjolí, cacahuate y jamaica",81128.44670946903
+Costa,2009,Chile verde,526,14692.45,Hortalizas y frutas,28224.05161831159
+Costa,2009,Frijol,2843,24880.86,Frijol,47795.88679546189
+Costa,2009,Jamaica,2297,34534.03,"Ajonjolí, cacahuate y jamaica",66339.5312087719
+Costa,2009,Maíz grano,75340,373515.24,Maíz,717519.094091594
+Costa,2009,Melón,100,6035.05,Hortalizas y frutas,11593.27155914033
+Costa,2009,Sandía,198,11818.27,Hortalizas y frutas,22702.78017070967
+Costa,2009,Sorgo forrajero en verde,30,293.88,Otros granos y forrajes,564.5405830606475
+Costa,2009,Tomate rojo (jitomate),5,299.7,Hortalizas y frutas,575.7207456896557
+Costa,2014,Ajonjolí,1503,21277.49,"Ajonjolí, cacahuate y jamaica",33757.69397007557
+Costa,2014,Cacahuate,5608,83594.84,"Ajonjolí, cacahuate y jamaica",132626.96991973356
+Costa,2014,Chile verde,595,16343.34,Hortalizas y frutas,25929.443283436853
+Costa,2014,Frijol,4030,34247.18,Frijol,54334.68993655231
+Costa,2014,Jamaica,2477,48890.96,"Ajonjolí, cacahuate y jamaica",77567.70491177322
+Costa,2014,Maíz grano,75852.5,312438.55,Maíz,495697.79872316483
+Costa,2014,Melón,101,7847.89,Hortalizas y frutas,12451.0301229523
+Costa,2014,Sandía,406,28629.19,Hortalizas y frutas,45421.496362171834
+Costa,2014,Sorgo forrajero en verde,73,410.48,Otros granos y forrajes,651.2449645534609
+Costa,2014,Sorgo grano,23,79.06,Otros granos y forrajes,125.4322424907343
+Costa,2019,Ajonjolí,1533.5,23418.74,"Ajonjolí, cacahuate y jamaica",30515.07231674809
+Costa,2019,Cacahuate,2658,50611.78,"Ajonjolí, cacahuate y jamaica",65948.13071836249
+Costa,2019,Chile verde,684,25075.04,Hortalizas y frutas,32673.263332927007
+Costa,2019,Frijol,3448,31093.13,Frijol,40514.95129558847
+Costa,2019,Jamaica,1433,36660.95,"Ajonjolí, cacahuate y jamaica",47769.92871737274
+Costa,2019,Maíz forrajero en verde,12.5,126.82,Otros granos y forrajes,165.2489190797623
+Costa,2019,Maíz grano,50694.85,183385.37,Maíz,238954.69301011093
+Costa,2019,Melón,85.5,9190.11,Hortalizas y frutas,11974.8915291288
+Costa,2019,Sandía,540.5,58881.24,Hortalizas y frutas,76723.39744579769
+Costa,2019,Sorgo forrajero en verde,60.5,361.07,Otros granos y forrajes,470.4812112610769
+Costa,2019,Sorgo grano,55,203.36,Otros granos y forrajes,264.9820232144809
+Costa,2024,Ajonjolí,1995.5,59839.11,"Ajonjolí, cacahuate y jamaica",59839.11
+Costa,2024,Cacahuate,2334.25,58849.11,"Ajonjolí, cacahuate y jamaica",58849.11
+Costa,2024,Chile verde,771.2,31097.81,Hortalizas y frutas,31097.81
+Costa,2024,Frijol,3576.5,39699.19,Frijol,39699.19
+Costa,2024,Jamaica,1490.9,42786.78,"Ajonjolí, cacahuate y jamaica",42786.78
+Costa,2024,Maíz forrajero en verde,13,189.84,Otros granos y forrajes,189.84
+Costa,2024,Maíz grano,61299.32,484977.21,Maíz,484977.21
+Costa,2024,Melón,85.75,12637.2,Hortalizas y frutas,12637.2
+Costa,2024,Sandía,560.25,75998.2,Hortalizas y frutas,75998.2
+Costa,2024,Sorgo forrajero en verde,66,610.32,Otros granos y forrajes,610.32
+Costa,2024,Sorgo grano,67,735.61,Otros granos y forrajes,735.61
+Istmo,2004,Ajonjolí,5221,34680.33,"Ajonjolí, cacahuate y jamaica",82621.55679571879
+Istmo,2004,Cacahuate,177,919.5,"Ajonjolí, cacahuate y jamaica",2190.593961293431
+Istmo,2004,Camote,54,759.93,Hortalizas y frutas,1810.438356721824
+Istmo,2004,Chile verde,100,5600,Hortalizas y frutas,13341.300906191644
+Istmo,2004,Flores,24,628.65,Otros,1497.6801454781028
+Istmo,2004,Frijol,3949,27452.17,Frijol,65401.367946058395
+Istmo,2004,Maíz grano,120461,408062.99,Maíz,972159.131833977
+Istmo,2004,Melón,1326,48286.78,Hortalizas y frutas,115037.22531626366
+Istmo,2004,Pepino,8,58,Hortalizas y frutas,138.1777593855563
+Istmo,2004,Sandía,323,10982.4,Hortalizas y frutas,26164.19697717127
+Istmo,2004,Sorgo grano,14598,50580.15,Otros granos y forrajes,120500.89304112665
+Istmo,2004,Tomate rojo (jitomate),57,2087.63,Hortalizas y frutas,4973.5178590701535
+Istmo,2004,Tomate verde,24,1584,Hortalizas y frutas,3773.682256322779
+Istmo,2009,Ajonjolí,4950,62355.76,"Ajonjolí, cacahuate y jamaica",119784.80028443514
+Istmo,2009,Cacahuate,155,2796,"Ajonjolí, cacahuate y jamaica",5371.088438265858
+Istmo,2009,Camote,75,2812.5,Hortalizas y frutas,5402.784775616139
+Istmo,2009,Chile verde,408,17052.8,Hortalizas y frutas,32758.260701022893
+Istmo,2009,Flores,52,885.6,Otros,1701.22887014601
+Istmo,2009,Frijol,2552,19708.19,Frijol,37859.23871536008
+Istmo,2009,Maíz grano,88927,479347.2,Maíz,920821.2460068354
+Istmo,2009,Melón,1962,93382.75,Hortalizas y frutas,179387.34222405974
+Istmo,2009,Pepino,25,540,Hortalizas y frutas,1037.3346769182988
+Istmo,2009,Sandía,1202,59811.6,Hortalizas y frutas,114897.49400364168
+Istmo,2009,Sorgo forrajero en verde,47,246.59,Otros granos y forrajes,473.69695922459863
+Istmo,2009,Sorgo grano,22075,145812.72,Otros granos y forrajes,280104.7977625525
+Istmo,2009,Tomate rojo (jitomate),209.5,10415.5,Hortalizas y frutas,20008.072828597295
+Istmo,2009,Tomate verde,40,720,Hortalizas y frutas,1383.1129025577316
+Istmo,2009,Trigo grano,5,22,Otros granos y forrajes,42.26178313370846
+Istmo,2014,Ajonjolí,5669,49550.82,"Ajonjolí, cacahuate y jamaica",78614.60245199503
+Istmo,2014,Cacahuate,441,4658.38,"Ajonjolí, cacahuate y jamaica",7390.729190159206
+Istmo,2014,Camote,84,2145.89,Hortalizas y frutas,3404.550908657245
+Istmo,2014,Chile verde,387,19401.72,Hortalizas y frutas,30781.700579020107
+Istmo,2014,Flores,60.5,1940.4,Otros,3078.5317901469875
+Istmo,2014,Frijol,2574,20192.09,Frijol,32035.6580985926
+Istmo,2014,Maíz grano,77580,291101.37,Maíz,461845.4038859722
+Istmo,2014,Melón,1015,40325.55,Hortalizas y frutas,63978.29706769834
+Istmo,2014,Pepino,21,1176,Hortalizas y frutas,1865.7768425133258
+Istmo,2014,Sandía,810.5,25882.05,Hortalizas y frutas,41063.03531188097
+Istmo,2014,Sorgo forrajero en verde,57,465.27,Otros granos y forrajes,738.1717614933461
+Istmo,2014,Sorgo grano,20223,140751.71,Otros granos y forrajes,223308.9124678157
+Istmo,2014,Tomate rojo (jitomate),97.5,3838.51,Hortalizas y frutas,6089.968595030465
+Istmo,2014,Tomate verde,50,1778.56,Hortalizas y frutas,2821.76535801063
+Istmo,2019,Ajonjolí,6315.65,88403.5,"Ajonjolí, cacahuate y jamaica",115191.47467172187
+Istmo,2019,Cacahuate,440.4,5838.56,"Ajonjolí, cacahuate y jamaica",7607.756891518191
+Istmo,2019,Camote,86.75,2793.49,Hortalizas y frutas,3639.9716366513576
+Istmo,2019,Chile verde,384.43,18100.33,Hortalizas y frutas,23585.080961102303
+Istmo,2019,Frijol,2580.13,23608.76,Frijol,30762.67206129576
+Istmo,2019,Maíz grano,76910.67,487619.39,Maíz,635377.520263626
+Istmo,2019,Melón,950.75,58459.24,Hortalizas y frutas,76173.52326308472
+Istmo,2019,Nardo,59.45,4901.4,Otros,6386.619239690482
+Istmo,2019,Pepino,19.5,1320.06,Hortalizas y frutas,1720.0637763793645
+Istmo,2019,Sandía,776,51463,Hortalizas y frutas,67057.28688378652
+Istmo,2019,Sorgo forrajero en verde,69.5,742.07,Otros granos y forrajes,966.931598971134
+Istmo,2019,Sorgo grano,19568.86,235911.4,Otros granos y forrajes,307397.12859638414
+Istmo,2019,Tomate rojo (jitomate),109.98,4760.96,Hortalizas y frutas,6203.623196514628
+Istmo,2019,Tomate verde,49.75,2166.85,Hortalizas y frutas,2823.447565904297
+Istmo,2024,Ajonjolí,6301,179297.65,"Ajonjolí, cacahuate y jamaica",179297.65
+Istmo,2024,Cacahuate,416.25,7672.25,"Ajonjolí, cacahuate y jamaica",7672.25
+Istmo,2024,Camote,84.25,3927.34,Hortalizas y frutas,3927.34
+Istmo,2024,Chile verde,394.2,20581.19,Hortalizas y frutas,20581.19
+Istmo,2024,Frijol,2519.75,24760.28,Frijol,24760.28
+Istmo,2024,Maíz grano,76272.7,658482.17,Maíz,658482.17
+Istmo,2024,Melón,943.25,93130.36,Hortalizas y frutas,93130.36
+Istmo,2024,Nardo,57.5,7920.25,Otros,7920.25
+Istmo,2024,Pepino,21.25,1640.01,Hortalizas y frutas,1640.01
+Istmo,2024,Sandía,756.75,69651.82,Hortalizas y frutas,69651.82
+Istmo,2024,Sorgo forrajero en verde,87.25,2258.28,Otros granos y forrajes,2258.28
+Istmo,2024,Sorgo grano,19730,318100.04,Otros granos y forrajes,318100.04
+Istmo,2024,Tomate rojo (jitomate),124.25,9439.21,Hortalizas y frutas,9439.21
+Mixteca,2004,Ajo,5,250,Hortalizas y frutas,595.5937904549841
+Mixteca,2004,Alpiste grano,459,1789.83,Otros granos y forrajes,4264.046535880177
+Mixteca,2004,Amaranto,5,55,Otros granos y forrajes,131.0306339000965
+Mixteca,2004,Arvejón,61,158.6,Otros granos y forrajes,377.8447006646419
+Mixteca,2004,Avena forrajera en verde,392,1227.63,Otros granos y forrajes,2924.675219905009
+Mixteca,2004,Cacahuate,340,1326,"Ajonjolí, cacahuate y jamaica",3159.0294645732356
+Mixteca,2004,Calabacita,325,17408,Hortalizas y frutas,41472.38681696145
+Mixteca,2004,Cebada forrajera en verde,8,18.55,Otros granos y forrajes,44.19305925175982
+Mixteca,2004,Cebada grano,290,399.85,Otros granos y forrajes,952.5927084537016
+Mixteca,2004,Cebolla,12,345,Hortalizas y frutas,821.919430827878
+Mixteca,2004,Chile verde,108,2518.5,Hortalizas y frutas,6000.011845043509
+Mixteca,2004,Chícharo,40,216,Otros granos y forrajes,514.5930349531062
+Mixteca,2004,Ebo (janamargo o veza),4,12.25,Otros granos y forrajes,29.184095732294217
+Mixteca,2004,Ejote,55,1810,Hortalizas y frutas,4312.099042894085
+Mixteca,2004,Frijol,20344.5,93164.8,Frijol,221953.505475922
+Mixteca,2004,Garbanzo grano,5,28.5,Otros granos y forrajes,67.89769211186818
+Mixteca,2004,Maíz forrajero en verde,28,20.75,Otros granos y forrajes,49.43428460776368
+Mixteca,2004,Maíz grano,107456.5,242885.85,Maíz,578645.2161975228
+Mixteca,2004,Melón,32,1728,Hortalizas y frutas,4116.74427962485
+Mixteca,2004,Pepino,18,560,Hortalizas y frutas,1334.1300906191643
+Mixteca,2004,Sandía,557,13681,Hortalizas y frutas,32593.27458885855
+Mixteca,2004,Tomate rojo (jitomate),70,6091,Hortalizas y frutas,14511.047110645231
+Mixteca,2004,Tomate verde,65,4312,Hortalizas y frutas,10272.801697767565
+Mixteca,2004,Trigo grano,12216,21064.96,Otros granos y forrajes,50184.637488730485
+Mixteca,2004,Zempoalxochitl,12,162,Otros,385.9447762148297
+Mixteca,2009,Ajo,20,4689.3,Hortalizas y frutas,9008.09907494996
+Mixteca,2009,Alpiste grano,163,937,Otros granos y forrajes,1799.9677634674924
+Mixteca,2009,Arvejón,49,137.57,Otros granos y forrajes,264.2706138956488
+Mixteca,2009,Avena forrajera en verde,382,3135.62,Otros granos y forrajes,6023.49511044177
+Mixteca,2009,Cacahuate,96.5,234.6,"Ajonjolí, cacahuate y jamaica",450.6642874167275
+Mixteca,2009,Calabacita,433,36936.9,Hortalizas y frutas,70955.42079233984
+Mixteca,2009,Cebada grano,250.5,281.85,Otros granos y forrajes,541.4310716470787
+Mixteca,2009,Cebolla,12,378.03,Hortalizas y frutas,726.1919035470822
+Mixteca,2009,Chile verde,85,3304.6,Hortalizas y frutas,6348.1040247115
+Mixteca,2009,Chícharo,4,21.13,Otros granos y forrajes,40.59052170978454
+Mixteca,2009,Ejote,66,3260.7,Hortalizas y frutas,6263.772557458326
+Mixteca,2009,Frijol,18617,155076.31,Frijol,297900.06283617025
+Mixteca,2009,Garbanzo grano,1.5,11.2,Otros granos y forrajes,21.51508959534249
+Mixteca,2009,Jamaica,10,132.38,"Ajonjolí, cacahuate y jamaica",254.30067505637848
+Mixteca,2009,Maíz grano,130772.25,408413.87,Maíz,784559.0183063
+Mixteca,2009,Melón,19,1127.1,Hortalizas y frutas,2165.1479895455823
+Mixteca,2009,Pepino,14,372.58,Hortalizas y frutas,715.7225072707772
+Mixteca,2009,Sandía,614.5,28143.15,Hortalizas y frutas,54062.7137272467
+Mixteca,2009,Sorgo forrajero en verde,4,84.6,Otros granos y forrajes,162.51576605053344
+Mixteca,2009,Tomate rojo (jitomate),47.5,6234.87,Hortalizas y frutas,11977.12380940295
+Mixteca,2009,Tomate verde,108,5652.55,Hortalizas y frutas,10858.492829656536
+Mixteca,2009,Trigo grano,15490.5,62685.35,Otros granos y forrajes,120417.93942548236
+Mixteca,2009,Zempoalxochitl,45,1813.1,Otros,3482.94722726031
+Mixteca,2014,Ajo,19.75,3548.43,Hortalizas y frutas,5629.743640543844
+Mixteca,2014,Alpiste grano,35.4,179.15,Otros granos y forrajes,284.2295249458013
+Mixteca,2014,Arvejón,50.9,394.12,Otros granos y forrajes,625.2890894314218
+Mixteca,2014,Avena forrajera en verde,354.8,3006.37,Otros granos y forrajes,4769.741093560193
+Mixteca,2014,Cacahuate,40.1,122.23,"Ajonjolí, cacahuate y jamaica",193.92338729626175
+Mixteca,2014,Calabacita,367.5,27474.63,Hortalizas y frutas,43589.73504304583
+Mixteca,2014,Cebada grano,168.1,978.88,Otros granos y forrajes,1553.0371051015684
+Mixteca,2014,Cebolla,16,981.29,Hortalizas y frutas,1556.8606783927733
+Mixteca,2014,Chile verde,175,5121.48,Hortalizas y frutas,8125.458149145533
+Mixteca,2014,Ejote,53.2,2640.3,Hortalizas y frutas,4188.954589530556
+Mixteca,2014,Frijol,17904.4,110203.72,Frijol,174843.1536860737
+Mixteca,2014,Jamaica,10,253.05,"Ajonjolí, cacahuate y jamaica",401.47519557652817
+Mixteca,2014,Maíz grano,126831.75,439197.17,Maíz,696806.0451389357
+Mixteca,2014,Melón,12.75,936.45,Hortalizas y frutas,1485.7200035472822
+Mixteca,2014,Pepino,38.95,2591.47,Hortalizas y frutas,4111.483600397966
+Mixteca,2014,Sandía,606.15,35391.5,Hortalizas y frutas,56150.20503555304
+Mixteca,2014,Sorgo forrajero en verde,4.5,96.29,Otros granos y forrajes,152.7684117054491
+Mixteca,2014,Tomate rojo (jitomate),103.08,30450.41,Hortalizas y frutas,48310.9437270716
+Mixteca,2014,Tomate verde,102,11431.48,Hortalizas y frutas,18136.55668337945
+Mixteca,2014,Trigo forrajero verde,71.8,459.15,Otros granos y forrajes,728.4621064965932
+Mixteca,2014,Trigo grano,12544.84,50594.27,Otros granos y forrajes,80270.08276349207
+Mixteca,2014,Zempoalxochitl,44.75,2160.8,Otros,3428.2062936248253
+Mixteca,2019,Ajo,11.7,2257.22,Hortalizas y frutas,2941.201428207073
+Mixteca,2019,Alpiste grano,0.4,3.91,Otros granos y forrajes,5.094805816132082
+Mixteca,2019,Arvejón,61.75,503.27,Otros granos y forrajes,655.7705685638856
+Mixteca,2019,Avena forrajera en verde,221,1868.17,Otros granos y forrajes,2434.26173440498
+Mixteca,2019,Cacahuate,33.35,130.71,"Ajonjolí, cacahuate y jamaica",170.3176645080881
+Mixteca,2019,Calabacita,347.5,64540.08,Hortalizas y frutas,84096.97569248846
+Mixteca,2019,Cebada grano,161.5,1248.79,Otros granos y forrajes,1627.1975844316066
+Mixteca,2019,Cebolla,7,485.12,Hortalizas y frutas,632.1207666296664
+Mixteca,2019,Chile verde,181.5,6756.06,Hortalizas y frutas,8803.277182132306
+Mixteca,2019,Ejote,30.9,2226.1,Hortalizas y frutas,2900.651464780467
+Mixteca,2019,Frijol,12333.35,87785.68,Frijol,114386.44323199737
+Mixteca,2019,Jamaica,14,433.2,"Ajonjolí, cacahuate y jamaica",564.4679998845058
+Mixteca,2019,Maíz grano,100557.5,329763.63,Maíz,429688.4041106976
+Mixteca,2019,Melón,8.25,721.12,Hortalizas y frutas,939.6333427440325
+Mixteca,2019,Pepino,16.15,1926.92,Hortalizas y frutas,2510.8141235859925
+Mixteca,2019,Sandía,611,66006.65,Hortalizas y frutas,86007.94483974288
+Mixteca,2019,Sorgo forrajero en verde,3.75,93.02,Otros granos y forrajes,121.20686368711156
+Mixteca,2019,Sorgo grano,520,6715.8,Otros granos y forrajes,8750.817621478218
+Mixteca,2019,Tomate rojo (jitomate),121.25,56991.09,Hortalizas y frutas,74260.49534519357
+Mixteca,2019,Tomate verde,65.6,7356.22,Hortalizas y frutas,9585.29729942382
+Mixteca,2019,Trigo forrajero verde,70.3,575.69,Otros granos y forrajes,750.135232810506
+Mixteca,2019,Trigo grano,10346,39961.88,Otros granos y forrajes,52071.1045134456
+Mixteca,2019,Zempoalxochitl,46.25,2425.5,Otros,3160.4735312093003
+Mixteca,2024,Ajo,13.61,2415.02,Hortalizas y frutas,2415.02
+Mixteca,2024,Ajonjolí,45,426.36,"Ajonjolí, cacahuate y jamaica",426.36
+Mixteca,2024,Alpiste grano,0.45,4.31,Otros granos y forrajes,4.31
+Mixteca,2024,Arvejón,64.7,629.65,Otros granos y forrajes,629.65
+Mixteca,2024,Avena forrajera en verde,230.05,2281.94,Otros granos y forrajes,2281.94
+Mixteca,2024,Cacahuate,39.47,204.1,"Ajonjolí, cacahuate y jamaica",204.1
+Mixteca,2024,Calabacita,367.92,56514.73,Hortalizas y frutas,56514.73
+Mixteca,2024,Cebada grano,163.25,1762.92,Otros granos y forrajes,1762.92
+Mixteca,2024,Cebolla,9.08,1028.73,Hortalizas y frutas,1028.73
+Mixteca,2024,Chile verde,196.5,8004.41,Hortalizas y frutas,8004.41
+Mixteca,2024,Ejote,35.91,3174.75,Hortalizas y frutas,3174.75
+Mixteca,2024,Frijol,12887.81,151271.1,Frijol,151271.1
+Mixteca,2024,Jamaica,15.9,623.8,"Ajonjolí, cacahuate y jamaica",623.8
+Mixteca,2024,Maíz grano,108009.07,652465.12,Maíz,652465.12
+Mixteca,2024,Melón,8.76,854.51,Hortalizas y frutas,854.51
+Mixteca,2024,Pepino,17.55,1799.49,Hortalizas y frutas,1799.49
+Mixteca,2024,Sandía,632.5,75385.37,Hortalizas y frutas,75385.37
+Mixteca,2024,Sorgo forrajero en verde,4.65,132.08,Otros granos y forrajes,132.08
+Mixteca,2024,Sorgo grano,425,6640.52,Otros granos y forrajes,6640.52
+Mixteca,2024,Tomate rojo (jitomate),129.98,85140.55,Hortalizas y frutas,85140.55
+Mixteca,2024,Tomate verde,70.55,10406.18,Hortalizas y frutas,10406.18
+Mixteca,2024,Trigo grano,10527.86,74360.61,Otros granos y forrajes,74360.61
+Mixteca,2024,Zempoalxochitl,49.42,2808.31,Otros,2808.31
+Papaloapan,2004,Arroz palay,295,1672.5,Otros granos y forrajes,3984.5224581438433
+Papaloapan,2004,Chile verde,835,108547.75,Hortalizas y frutas,258601.46347144
+Papaloapan,2004,Frijol,795,3186,Frijol,7590.247265558317
+Papaloapan,2004,Maíz grano,67325,269144.4,Maíz,641202.9335029298
+Papaloapan,2004,Melón,19,0,Hortalizas y frutas,0
+Papaloapan,2004,Sandía,430,13140,Hortalizas y frutas,31304.40962631396
+Papaloapan,2004,Sorgo grano,370,2646,Otros granos y forrajes,6303.764678175551
+Papaloapan,2004,Tomate rojo (jitomate),18,1200,Hortalizas y frutas,2858.8501941839236
+Papaloapan,2009,Ajonjolí,250,6750,"Ajonjolí, cacahuate y jamaica",12966.683461478733
+Papaloapan,2009,Arroz palay,220,3792,Otros granos y forrajes,7284.3946201373865
+Papaloapan,2009,Chile verde,557,39012.9,Hortalizas y frutas,74943.39632804795
+Papaloapan,2009,Frijol,640,7463.48,Frijol,14337.271508307747
+Papaloapan,2009,Maíz grano,63007,316401.25,Maíz,607803.6823061034
+Papaloapan,2009,Sandía,200,11913,Hortalizas y frutas,22884.755566903135
+Papaloapan,2009,Sorgo grano,202,3788.4,Otros granos y forrajes,7277.479055624598
+Papaloapan,2009,Tomate rojo (jitomate),18,1350,Hortalizas y frutas,2593.3366922957466
+Papaloapan,2014,Ajonjolí,515,5845.75,"Ajonjolí, cacahuate y jamaica",9274.545048573362
+Papaloapan,2014,Chile verde,637,68979.51,Hortalizas y frutas,109439.09214788806
+Papaloapan,2014,Frijol,1305,15162.82,Frijol,24056.49525782135
+Papaloapan,2014,Jengibre,83,8716.8,Hortalizas y frutas,13829.594881649793
+Papaloapan,2014,Maíz grano,65137,461789.66,Maíz,732650.0456973658
+Papaloapan,2014,Sandía,204,10510.8,Hortalizas y frutas,16675.85649344308
+Papaloapan,2014,Sorgo grano,1503,18199.57,Otros granos y forrajes,28874.4355864798
+Papaloapan,2019,Ajonjolí,128,1651.73,"Ajonjolí, cacahuate y jamaica",2152.2362175651774
+Papaloapan,2019,Chile verde,748.4,64281.15,Hortalizas y frutas,83759.58488175416
+Papaloapan,2019,Frijol,1351.8,12780.6,Frijol,16653.3696198613
+Papaloapan,2019,Jengibre,135,16730.6,Hortalizas y frutas,21800.296211605983
+Papaloapan,2019,Maíz grano,62022,705024.96,Maíz,918661.193536135
+Papaloapan,2019,Sandía,200,12684.51,Hortalizas y frutas,16528.16248664592
+Papaloapan,2019,Sorgo grano,1072,19794.87,Otros granos y forrajes,25793.09943876687
+Papaloapan,2024,Ajonjolí,39,458.5,"Ajonjolí, cacahuate y jamaica",458.5
+Papaloapan,2024,Chile verde,384.3,39263.28,Hortalizas y frutas,39263.28
+Papaloapan,2024,Frijol,1293.51,12870.35,Frijol,12870.35
+Papaloapan,2024,Jengibre,44,5218.17,Hortalizas y frutas,5218.17
+Papaloapan,2024,Maíz grano,61989.5,825031.26,Maíz,825031.26
+Papaloapan,2024,Sandía,358,35531.73,Hortalizas y frutas,35531.73
+Papaloapan,2024,Sorgo grano,1030,25890.03,Otros granos y forrajes,25890.03
+Sierra Juárez,2004,Chile verde,295,5480,Hortalizas y frutas,13055.415886773251
+Sierra Juárez,2004,Chícharo,265,635.57,Otros granos y forrajes,1514.166181597897
+Sierra Juárez,2004,Frijol,3942.5,14922.62,Frijol,35551.27923727742
+Sierra Juárez,2004,Garbanzo grano,20,56,Otros granos y forrajes,133.41300906191643
+Sierra Juárez,2004,Gladiola,11,539,Otros,1284.1002122209457
+Sierra Juárez,2004,Maíz grano,22027.5,90982.47,Maíz,216754.3766890275
+Sierra Juárez,2004,Papa,60,2940.3,Hortalizas y frutas,7004.897688299159
+Sierra Juárez,2004,Trigo grano,410,1907,Otros granos y forrajes,4543.189433590618
+Sierra Juárez,2009,Chile verde,285,6734.7,Hortalizas y frutas,12937.292312299382
+Sierra Juárez,2009,Chícharo,293,855.55,Otros granos y forrajes,1643.5031163656488
+Sierra Juárez,2009,Frijol,4046.5,23595.96,Frijol,45327.60656143907
+Sierra Juárez,2009,Garbanzo grano,20,65.2,Otros granos y forrajes,125.24855728717236
+Sierra Juárez,2009,Gladiola,11,1381.07,Otros,2653.0218560213975
+Sierra Juárez,2009,Maíz grano,22621.5,109602.86,Maíz,210546.01364337318
+Sierra Juárez,2009,Papa,80,2520,Hortalizas y frutas,4840.89515895206
+Sierra Juárez,2009,Trigo grano,410,2534.41,Otros granos y forrajes,4868.576626904639
+Sierra Juárez,2014,Chile verde,309,7100.99,Hortalizas y frutas,11266.039711665562
+Sierra Juárez,2014,Chícharo,349.5,1284.5,Otros granos y forrajes,2037.9169678642577
+Sierra Juárez,2014,Frijol,4007.5,18759.03,Frijol,29762.044015316966
+Sierra Juárez,2014,Garbanzo grano,26.25,117.16,Otros granos y forrajes,185.8796044803242
+Sierra Juárez,2014,Gladiola,13,2176.62,Otros,3453.3054344824445
+Sierra Juárez,2014,Maíz grano,22590.5,100704.91,Maíz,159772.86480050057
+Sierra Juárez,2014,Papa,78.75,3148.6,Hortalizas y frutas,4995.395379538654
+Sierra Juárez,2014,Trigo grano,390.5,2292.49,Otros granos y forrajes,3637.138395997767
+Sierra Juárez,2019,Chile verde,325.75,8339.08,Hortalizas y frutas,10865.98293738893
+Sierra Juárez,2019,Chícharo,381.5,1339.42,Otros granos y forrajes,1745.2902317758653
+Sierra Juárez,2019,Frijol,4246.75,30663.36,Frijol,39954.95265221274
+Sierra Juárez,2019,Garbanzo grano,38.75,174.75,Otros granos y forrajes,227.70263845756554
+Sierra Juárez,2019,Gladiola,16.5,3253.53,Otros,4239.412676971921
+Sierra Juárez,2019,Maíz grano,21805.25,126740.88,Maíz,165145.82418560056
+Sierra Juárez,2019,Papa,96.75,4603.81,Hortalizas y frutas,5998.853699326609
+Sierra Juárez,2019,Tomate rojo (jitomate),43.44,39629.92,Hortalizas y frutas,51638.5541966366
+Sierra Juárez,2019,Trigo grano,254,1686.17,Otros granos y forrajes,2197.11220536763
+Sierra Juárez,2024,Chile verde,199.1,4906.73,Hortalizas y frutas,4906.73
+Sierra Juárez,2024,Chícharo,347.8,1507.9,Otros granos y forrajes,1507.9
+Sierra Juárez,2024,Frijol,3932.25,30589.85,Frijol,30589.85
+Sierra Juárez,2024,Garbanzo grano,1.75,8.48,Otros granos y forrajes,8.48
+Sierra Juárez,2024,Gladiola,8.95,2196.32,Otros,2196.32
+Sierra Juárez,2024,Maíz grano,20883.85,122708.74,Maíz,122708.74
+Sierra Juárez,2024,Papa,84.35,3730.04,Hortalizas y frutas,3730.04
+Sierra Juárez,2024,Tomate rojo (jitomate),46.6,46239.49,Hortalizas y frutas,46239.49
+Sierra Juárez,2024,Trigo grano,7.85,50.86,Otros granos y forrajes,50.86
+Valles Centrales,2004,Ajo,260,7800,Hortalizas y frutas,18582.526262195504
+Valles Centrales,2004,Avena forrajera en verde,325,3489,Otros granos y forrajes,8312.106939589758
+Valles Centrales,2004,Cacahuate,596,2826,"Ajonjolí, cacahuate y jamaica",6732.59220730314
+Valles Centrales,2004,Calabacita,80,3420,Hortalizas y frutas,8147.723053424182
+Valles Centrales,2004,Cebada forrajera en verde,230,2760,Otros granos y forrajes,6575.355446623024
+Valles Centrales,2004,Cebolla,130,7980,Hortalizas y frutas,19011.35379132309
+Valles Centrales,2004,Chile verde,435,15276,Hortalizas y frutas,36393.16297196135
+Valles Centrales,2004,Chícharo,32,62.4,Otros granos y forrajes,148.66021009756403
+Valles Centrales,2004,Cilantro,28,630,Hortalizas y frutas,1500.89635194656
+Valles Centrales,2004,Col (repollo),55,5025,Hortalizas y frutas,11971.43518814518
+Valles Centrales,2004,Ejote,63,3360,Hortalizas y frutas,8004.7805437149855
+Valles Centrales,2004,Flores,88,2860,Otros,6813.592962805018
+Valles Centrales,2004,Frijol,14137,103341.01,Frijol,246197.05542138565
+Valles Centrales,2004,Garbanzo grano,4500,12600,Otros granos y forrajes,30017.927038931197
+Valles Centrales,2004,Gladiola,5,200,Otros,476.4750323639872
+Valles Centrales,2004,Haba grano,12,36,Otros granos y forrajes,85.7655058255177
+Valles Centrales,2004,Maíz forrajero en verde,476,5259,Otros granos y forrajes,12528.910976011044
+Valles Centrales,2004,Maíz grano,167009,346717.71,Maíz,826011.6604670878
+Valles Centrales,2004,Melón,8,192,Hortalizas y frutas,457.41603106942773
+Valles Centrales,2004,Pepino,6,96,Hortalizas y frutas,228.70801553471387
+Valles Centrales,2004,Sandía,10,600,Hortalizas y frutas,1429.4250970919618
+Valles Centrales,2004,Sorgo forrajero en verde,230,3080,Otros granos y forrajes,7337.715498405403
+Valles Centrales,2004,Tomate rojo (jitomate),550,67999.98,Hortalizas y frutas,162001.4633562524
+Valles Centrales,2004,Tomate verde,170,10625,Hortalizas y frutas,25312.736094336822
+Valles Centrales,2004,Trigo grano,35,56,Otros granos y forrajes,133.41300906191643
+Valles Centrales,2004,Zanahoria,14,460,Hortalizas y frutas,1095.8925744371707
+Valles Centrales,2004,Zempoalxochitl,60,2160,Otros,5145.930349531062
+Valles Centrales,2009,Ajo,213,21685.97,Hortalizas y frutas,41658.53459927763
+Valles Centrales,2009,Amaranto,7,98.75,Otros granos y forrajes,189.69777656607778
+Valles Centrales,2009,Avena forrajera en verde,98,1368.28,Otros granos y forrajes,2628.4523920995734
+Valles Centrales,2009,Cacahuate,500,5661.2,"Ajonjolí, cacahuate y jamaica",10875.109394388652
+Valles Centrales,2009,Calabacita,159,9437.31,Hortalizas y frutas,18128.979481162645
+Valles Centrales,2009,Cebolla,48.5,4867.98,Hortalizas y frutas,9351.341593601368
+Valles Centrales,2009,Chile verde,339.6,23327.79,Hortalizas y frutas,44812.454634940594
+Valles Centrales,2009,Chícharo,118,653.99,Otros granos y forrajes,1256.3083432551819
+Valles Centrales,2009,Cilantro,18,214.06,Hortalizas y frutas,411.2071498909834
+Valles Centrales,2009,Col (repollo),18,588.12,Hortalizas y frutas,1129.7727225725737
+Valles Centrales,2009,Ejote,72,5107.43,Hortalizas y frutas,9811.322683208939
+Valles Centrales,2009,Flores,36.75,1441.26,Otros,2768.646252694939
+Valles Centrales,2009,Frijol,12811,83903.72,Frijol,161178.21903415443
+Valles Centrales,2009,Garbanzo grano,450,2556.04,Otros granos y forrajes,4910.127643685644
+Valles Centrales,2009,Haba grano,82,296.44,Otros granos y forrajes,569.4583178252972
+Valles Centrales,2009,Maíz forrajero en verde,795,9216.22,Otros granos y forrajes,17704.2677705703
+Valles Centrales,2009,Maíz grano,189231,309505.12,Maíz,594556.2845551097
+Valles Centrales,2009,Melón,35,6302.2,Hortalizas y frutas,12106.464075693522
+Valles Centrales,2009,Pepino,14,832.24,Hortalizas y frutas,1598.7248361453424
+Valles Centrales,2009,Sandía,68,5615.74,Hortalizas y frutas,10787.78118251327
+Valles Centrales,2009,Sorgo forrajero en verde,121,1678.45,Otros granos y forrajes,3224.28590458059
+Valles Centrales,2009,Sorgo grano,2,12.52,Otros granos y forrajes,24.050796583365
+Valles Centrales,2009,Tomate rojo (jitomate),440.96,215464.18,Hortalizas y frutas,413904.56582919654
+Valles Centrales,2009,Tomate verde,212.5,12381.94,Hortalizas y frutas,23785.584684299556
+Valles Centrales,2009,Trigo grano,42,110.4,Otros granos y forrajes,212.07731172551885
+Valles Centrales,2014,Ajo,169.25,18589.94,Hortalizas y frutas,29493.77513240831
+Valles Centrales,2014,Amaranto,43.05,869.75,Otros granos y forrajes,1379.8974564421471
+Valles Centrales,2014,Avena forrajera en verde,52.15,688.22,Otros granos y forrajes,1091.8919545531642
+Valles Centrales,2014,Cacahuate,182,4316.59,"Ajonjolí, cacahuate y jamaica",6848.463997129759
+Valles Centrales,2014,Calabacita,120.5,8419.67,Hortalizas y frutas,13358.184785377698
+Valles Centrales,2014,Cebolla,59.95,8524.57,Hortalizas y frutas,13524.613348965833
+Valles Centrales,2014,Chile verde,254.65,19305.67,Hortalizas y frutas,30629.31293809884
+Valles Centrales,2014,Chícharo,89.1,915.19,Otros granos y forrajes,1451.9900582481043
+Valles Centrales,2014,Cilantro,20.1,132.53,Hortalizas y frutas,210.26480011759443
+Valles Centrales,2014,Col (repollo),18.9,491.87,Hortalizas y frutas,780.3738567406714
+Valles Centrales,2014,Ejote,67.6,4031.32,Hortalizas y frutas,6395.870323776208
+Valles Centrales,2014,Flores,34.85,1817.64,Otros,2883.7675340356477
+Valles Centrales,2014,Fresa,6,2218,Hortalizas y frutas,3518.9566638559154
+Valles Centrales,2014,Frijol,10598.65,78476.49,Frijol,124506.4776562318
+Valles Centrales,2014,Garbanzo grano,279.45,2440.99,Otros granos y forrajes,3872.7403187130976
+Valles Centrales,2014,Haba grano,36.6,293.45,Otros granos y forrajes,465.57161091457095
+Valles Centrales,2014,Jamaica,10.73,41.18,"Ajonjolí, cacahuate y jamaica",65.3339203866486
+Valles Centrales,2014,Maíz forrajero en verde,639.95,9277.16,Otros granos y forrajes,14718.631200927657
+Valles Centrales,2014,Maíz grano,172271.35,654008.3,Maíz,1037613.5552308741
+Valles Centrales,2014,Melón,17.55,1820.61,Hortalizas y frutas,2888.479572489954
+Valles Centrales,2014,Nochebuena,0.5,776.03,Otros,1231.2064652173606
+Valles Centrales,2014,Pepino,15.5,1638.57,Hortalizas y frutas,2599.664932684575
+Valles Centrales,2014,Sandía,52.55,5262.84,Hortalizas y frutas,8349.73214103132
+Valles Centrales,2014,Sorgo forrajero en verde,123.5,1854.92,Otros granos y forrajes,2942.913929179267
+Valles Centrales,2014,Tomate rojo (jitomate),455.45,421068.44,Hortalizas y frutas,668044.0003955882
+Valles Centrales,2014,Tomate verde,165.8,10831.33,Hortalizas y frutas,17184.39174117335
+Valles Centrales,2014,Trigo grano,19.05,132.33,Otros granos y forrajes,209.94749113077248
+Valles Centrales,2019,Ajo,184.85,26891.37,Hortalizas y frutas,35039.97654213805
+Valles Centrales,2019,Amaranto,75.61,1409.1,Otros granos y forrajes,1836.084622893022
+Valles Centrales,2019,Avena forrajera en verde,45.5,652.24,Otros granos y forrajes,849.8813671391276
+Valles Centrales,2019,Cacahuate,155.16,4999.09,"Ajonjolí, cacahuate y jamaica",6513.911203930365
+Valles Centrales,2019,Calabacita,114.64,18163.26,Hortalizas y frutas,23667.07997133483
+Valles Centrales,2019,Cebolla,62.43,9574.2,Hortalizas y frutas,12475.368246754932
+Valles Centrales,2019,Chile verde,253.34,22949.49,Hortalizas y frutas,29903.630467842726
+Valles Centrales,2019,Chícharo,73.73,993.33,Otros granos y forrajes,1294.3282509817086
+Valles Centrales,2019,Cilantro,16.52,387.85,Hortalizas y frutas,505.3760705337156
+Valles Centrales,2019,Col (repollo),14.9,523.05,Hortalizas y frutas,681.5442921043184
+Valles Centrales,2019,Ejote,73.06,5947.64,Hortalizas y frutas,7749.890246613763
+Valles Centrales,2019,Fresa,6.65,4336.38,Hortalizas y frutas,5650.387223774638
+Valles Centrales,2019,Frijol,8929.59,86539.72,Frijol,112762.93319244037
+Valles Centrales,2019,Garbanzo grano,181.85,1844.63,Otros granos y forrajes,2403.5886579569624
+Valles Centrales,2019,Haba grano,26.77,184.3,Otros granos y forrajes,240.14647363507487
+Valles Centrales,2019,Jamaica,10,83.67,"Ajonjolí, cacahuate y jamaica",109.02363238766529
+Valles Centrales,2019,Maíz forrajero en verde,535.32,9319.94,Otros granos y forrajes,12144.06253657341
+Valles Centrales,2019,Maíz grano,155841.29,633322.86,Maíz,825231.966909822
+Valles Centrales,2019,Melón,17.1,2288.86,Hortalizas y frutas,2982.4289617166437
+Valles Centrales,2019,Nochebuena,0.41,595.39,Otros,775.8047147997136
+Valles Centrales,2019,Pepino,10.74,2194.48,Hortalizas y frutas,2859.4499916587033
+Valles Centrales,2019,Sandía,49.4,5740.74,Hortalizas y frutas,7480.295534757566
+Valles Centrales,2019,Sorgo forrajero en verde,112.3,1833.66,Otros granos y forrajes,2389.294535245205
+Valles Centrales,2019,Tomate rojo (jitomate),465.79,618554.3,Hortalizas y frutas,805988.24686279
+Valles Centrales,2019,Tomate verde,143.53,15115.25,Hortalizas y frutas,19695.463839460474
+Valles Centrales,2019,Trigo grano,22.13,148.64,Otros granos y forrajes,193.680802176438
+Valles Centrales,2024,Ajo,194.85,40064.26,Hortalizas y frutas,40064.26
+Valles Centrales,2024,Amaranto,62,1573.34,Otros granos y forrajes,1573.34
+Valles Centrales,2024,Avena forrajera en verde,49,945.95,Otros granos y forrajes,945.95
+Valles Centrales,2024,Cacahuate,147,7408.56,"Ajonjolí, cacahuate y jamaica",7408.56
+Valles Centrales,2024,Calabacita,132.2,19493.43,Hortalizas y frutas,19493.43
+Valles Centrales,2024,Cebolla,65.95,11561.82,Hortalizas y frutas,11561.82
+Valles Centrales,2024,Chile verde,260.15,43451.74,Hortalizas y frutas,43451.74
+Valles Centrales,2024,Chícharo,53.7,897.04,Otros granos y forrajes,897.04
+Valles Centrales,2024,Cilantro,21.25,591.66,Hortalizas y frutas,591.66
+Valles Centrales,2024,Col (repollo),9.5,481.72,Hortalizas y frutas,481.72
+Valles Centrales,2024,Ejote,63.2,6620.57,Hortalizas y frutas,6620.57
+Valles Centrales,2024,Fresa,10.65,8162.71,Hortalizas y frutas,8162.71
+Valles Centrales,2024,Frijol,7692.9,91490.32,Frijol,91490.32
+Valles Centrales,2024,Garbanzo grano,228.15,3274.63,Otros granos y forrajes,3274.63
+Valles Centrales,2024,Haba grano,18.1,183.58,Otros granos y forrajes,183.58
+Valles Centrales,2024,Jamaica,9.2,144.26,"Ajonjolí, cacahuate y jamaica",144.26
+Valles Centrales,2024,Maíz forrajero en verde,674,15487.38,Otros granos y forrajes,15487.38
+Valles Centrales,2024,Maíz grano,157001.3,839408.59,Maíz,839408.59
+Valles Centrales,2024,Melón,15.5,3103.1,Hortalizas y frutas,3103.1
+Valles Centrales,2024,Nochebuena,0.65,1509.86,Otros,1509.86
+Valles Centrales,2024,Pepino,38.15,23623.87,Hortalizas y frutas,23623.87
+Valles Centrales,2024,Sandía,50,7423.19,Hortalizas y frutas,7423.19
+Valles Centrales,2024,Sorgo forrajero en verde,110.35,2100.73,Otros granos y forrajes,2100.73
+Valles Centrales,2024,Tomate rojo (jitomate),538.23,1118778.67,Hortalizas y frutas,1118778.67
+Valles Centrales,2024,Tomate verde,143.1,14777.94,Hortalizas y frutas,14777.94
+Valles Centrales,2024,Trigo grano,14.25,116.84,Otros granos y forrajes,116.84
+Valles Centrales,2024,Zempoalxochitl,78,4191.24,Otros,4191.24
