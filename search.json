@@ -7,6 +7,90 @@
     "text": "Soy analista de datos con interés en temas ambientales, sociales y artísticos. Trabajo con R, Python y SQL en proyectos de investigación, visualización y modelación."
   },
   {
+    "objectID": "proyectos/oaxaca/index.html",
+    "href": "proyectos/oaxaca/index.html",
+    "title": "Oaxaca: brechas en la información agrícola, 2004-2024",
+    "section": "",
+    "text": "Proyecto realizado como asistente de investigación en NORIA, con su autorización. Es un ejercicio analítico para el portafolio, no una base para decidir políticas."
+  },
+  {
+    "objectID": "proyectos/oaxaca/index.html#pregunta",
+    "href": "proyectos/oaxaca/index.html#pregunta",
+    "title": "Oaxaca: brechas en la información agrícola, 2004-2024",
+    "section": "Pregunta",
+    "text": "Pregunta\nEste análisis es parte de una investigación más amplia sobre por qué las personas productoras agrícolas empiezan a sembrar ciertos cultivos (lícitos o ilícitos) y por qué lo hacen de manera formal o informal. El objetivo de largo plazo es proponer medidas que fortalezcan su autonomía, tanto frente al Estado como frente a grupos armados. No busca aumentar la productividad por hectárea ni empujar a nadie hacia el sector formal.\nLa pregunta de esta etapa es más modesta: con la información oficial disponible, ¿qué cambió en lo que se siembra en Oaxaca entre 2004 y 2024, y dónde hay huecos en esa información?"
+  },
+  {
+    "objectID": "proyectos/oaxaca/index.html#datos-y-alcance",
+    "href": "proyectos/oaxaca/index.html#datos-y-alcance",
+    "title": "Oaxaca: brechas en la información agrícola, 2004-2024",
+    "section": "Datos y alcance",
+    "text": "Datos y alcance\n\nFuente: Cierre agrícola del Servicio de Información Agroalimentaria y Pesquera (SIAP), por municipio, para 2004, 2009, 2014, 2019 y 2024, en riego y temporal.\nUnidad: hectáreas sembradas y valor de la producción por municipio. No hay datos de parcelas ni de productores individuales.\nValores: en miles de pesos, expresados en pesos de 2024 con el índice de precios al consumidor del Banco Mundial.\nRegiones: las 7 de SIAP (Distritos de Desarrollo Rural). No coinciden del todo con las 8 regiones oficiales del estado; la discrepancia viene de las propias fuentes del gobierno estatal y de SIAP.\n\n\n\n\n\n\n\nLo que esta base no incluye\n\n\n\nSolo contiene cultivos cíclicos (otoño-invierno y primavera-verano): 43 cultivos, de maíz a flores. No incluye perennes como café, mango, agave o caña, ni pastos. Por eso, cuando aquí se habla de “la superficie”, se trata de la superficie sembrada de cultivos cíclicos registrados, no de toda la tierra agrícola de Oaxaca. Tampoco incluye lo que se cultiva fuera del registro."
+  },
+  {
+    "objectID": "proyectos/oaxaca/index.html#las-regiones",
+    "href": "proyectos/oaxaca/index.html#las-regiones",
+    "title": "Oaxaca: brechas en la información agrícola, 2004-2024",
+    "section": "Las regiones",
+    "text": "Las regiones"
+  },
+  {
+    "objectID": "proyectos/oaxaca/index.html#qué-se-siembra",
+    "href": "proyectos/oaxaca/index.html#qué-se-siembra",
+    "title": "Oaxaca: brechas en la información agrícola, 2004-2024",
+    "section": "Qué se siembra",
+    "text": "Qué se siembra\nEl maíz domina: ocupa entre 71% y 97% de la superficie de cada región, y en 9 de cada 10 municipios al menos tres cuartas partes del campo es de temporal."
+  },
+  {
+    "objectID": "proyectos/oaxaca/index.html#superficie-y-valor-se-mueven-distinto",
+    "href": "proyectos/oaxaca/index.html#superficie-y-valor-se-mueven-distinto",
+    "title": "Oaxaca: brechas en la información agrícola, 2004-2024",
+    "section": "Superficie y valor se mueven distinto",
+    "text": "Superficie y valor se mueven distinto\nEntre 2004 y 2024 la superficie sembrada baja en todas las regiones. El valor de la producción, en pesos constantes, solo sube en Valles Centrales y en la Mixteca.\n\nEsa divergencia no es una tendencia general. En Valles Centrales casi todo el aumento viene de un cultivo, el jitomate:\n\nUna hectárea de jitomate genera unas 190 veces el valor de una de maíz (unos 1.4 millones de pesos frente a unos 7 mil), pero ocupa poco más de 900 hectáreas en todo el estado."
+  },
+  {
+    "objectID": "proyectos/oaxaca/index.html#a-dónde-se-va-la-tierra",
+    "href": "proyectos/oaxaca/index.html#a-dónde-se-va-la-tierra",
+    "title": "Oaxaca: brechas en la información agrícola, 2004-2024",
+    "section": "¿A dónde se va la tierra?",
+    "text": "¿A dónde se va la tierra?\nLa superficie sembrada de cíclicos bajó 15% (unas 108 mil hectáreas). El maíz explica 83% de esa baja y ningún otro cultivo registrado crece de forma apreciable: la tierra que deja de sembrarse con maíz no aparece sembrada con otra cosa dentro de este registro.\n\nLa pérdida tampoco es pareja. Pierden superficie 353 de los 570 municipios, y el 10% de ellos concentra 55% de la pérdida.\n\nLa concentración también se ve entre cultivos. Valles Centrales y la Mixteca se concentran en menos cultivos, y el Istmo se diversifica:"
+  },
+  {
+    "objectID": "proyectos/oaxaca/index.html#hipótesis",
+    "href": "proyectos/oaxaca/index.html#hipótesis",
+    "title": "Oaxaca: brechas en la información agrícola, 2004-2024",
+    "section": "Hipótesis",
+    "text": "Hipótesis\nLo que sigue son hipótesis de trabajo, no conclusiones. Cada una indica qué sostienen hoy los datos y qué haría falta para ponerla a prueba.\n\n\n\n\n\n\n\n\n\n\nHipótesis\nQué se observa hoy\nQué falta\n\n\n\n\nH1\nLa superficie que se pierde sale del registro, más que cambiar a otro cultivo registrado.\nEl maíz y el frijol pierden unas 104 mil ha; las hortalizas ganan 160.\nComparar con el Censo Agropecuario 2022 y con padrones de programas.\n\n\nH2\nParte de la tierra pasa a perennes, pastos u otros usos que esta base no recoge.\nNo se puede evaluar: la base no los incluye.\nDescargar el cierre agrícola de perennes y revisar uso de suelo.\n\n\nH3\nEl acceso a cultivos de alto valor está limitado por riego y capital.\nEl valor crece donde hay riego; el jitomate pesa mucho en poca tierra.\nInfraestructura de riego, crédito, caminos y compradores.\n\n\nH4\nLa baja del valor del maíz refleja precios y costos, no solo menos tierra.\nEl valor real del maíz cae, pero la base no separa precio de volumen.\nVolumen de producción, rendimiento y precios medios rurales (SIAP).\n\n\nH5\nLa pérdida se concentra en municipios de mucha superficie sembrada.\nEl cuarto más grande de municipios en 2004 explica 82% de la pérdida neta.\nTenencia de la tierra y estructura de las unidades de producción."
+  },
+  {
+    "objectID": "proyectos/oaxaca/index.html#preguntas-abiertas",
+    "href": "proyectos/oaxaca/index.html#preguntas-abiertas",
+    "title": "Oaxaca: brechas en la información agrícola, 2004-2024",
+    "section": "Preguntas abiertas",
+    "text": "Preguntas abiertas\nLos datos oficiales dejan sin explicar lo que más importa para la investigación:\n\n¿Qué tan completo es el registro? Cada municipio reporta superficie en todos los años, pero eso no dice qué tan cerca está de lo que realmente se siembra. Falta contrastarlo con otras fuentes.\n¿Qué hay fuera del registro? Los cultivos no registrados no aparecen en estos datos por construcción, y por eso no se puede inferir nada sobre ellos desde aquí.\n¿Cómo se producen las diferencias de valor? La brecha entre cultivos puede deberse a precios, intermediarios, tecnología o acceso a mercados. No se sabe quién captura el valor.\n¿Qué decide cambiar de cultivo? Los agregados regionales muestran contexto, no decisiones. Cruzar con migración y remesas, crédito, programas, tenencia de la tierra y seguridad permitiría empezar a responder, a nivel municipal y con cuidado de no atribuir conductas individuales a partir de promedios.\n¿Qué cambia cuando una región se diversifica? El Istmo pasó de un cultivo dominante a un reparto más parejo. Falta saber qué lo explica y si fue decisión de los productores o vino de programas, compradores o precios."
+  },
+  {
+    "objectID": "proyectos/oaxaca/index.html#limitaciones",
+    "href": "proyectos/oaxaca/index.html#limitaciones",
+    "title": "Oaxaca: brechas en la información agrícola, 2004-2024",
+    "section": "Limitaciones",
+    "text": "Limitaciones\n\nSolo cultivos cíclicos registrados; sin perennes, pastos ni cultivos fuera del registro.\nDatos agregados por municipio, sin parcelas ni productores.\nEl valor depende de los precios que reporta SIAP y del deflactor elegido.\nCinco cortes en el tiempo (2004, 2009, 2014, 2019, 2024), sin los años intermedios.\nLas regiones de SIAP no coinciden del todo con las 8 regiones oficiales del estado.\nLas hipótesis son para orientar la investigación, no se prueban estadísticamente aquí."
+  },
+  {
+    "objectID": "proyectos/oaxaca/index.html#cómo-reproducirlo",
+    "href": "proyectos/oaxaca/index.html#cómo-reproducirlo",
+    "title": "Oaxaca: brechas en la información agrícola, 2004-2024",
+    "section": "Cómo reproducirlo",
+    "text": "Cómo reproducirlo\nEl código está en codigo/ y los datos limpios en datos/. Los scripts se corren en orden desde la carpeta del proyecto:\n\n01_limpieza.R: lee los Excel de SIAP y escribe los CSV.\n02_graficas.R: figuras 1 a 6.\n03_mapas.R: mapas (descarga la geografía del INEGI la primera vez).\n04_cultivos.R: figuras 10 a 12.\n05_hipotesis.R: figuras 13 y 14.\n\nFuentes: SIAP, Anuario Estadístico de la Producción Agrícola (nube.agricultura.gob.mx); INEGI, Marco Geoestadístico 2020; Banco Mundial, índice de precios al consumidor de México."
+  },
+  {
+    "objectID": "proyectos.html",
+    "href": "proyectos.html",
+    "title": "Proyectos",
+    "section": "",
+    "text": "Oaxaca: brechas en la información agrícola, 2004-2024\n\n\n\nR\n\n\nmapas\n\n\nagricultura\n\n\ndatos abiertos\n\n\n\nQué muestran (y qué no pueden mostrar) los datos oficiales de producción agrícola sobre cómo cambió el campo oaxaqueño.\n\n\n\nOct 8, 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEnergía: transición eléctrica bajo incertidumbre\n\n\n\nR\n\n\ndinámica de sistemas\n\n\nenergía\n\n\nincertidumbre\n\n\n\nModelo de dinámica de sistemas con 125 escenarios de demanda, precio de hidrocarburos y llegada de baterías.\n\n\n\nOct 6, 2026\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "proyectos/energia/index.html",
     "href": "proyectos/energia/index.html",
     "title": "Energía: transición eléctrica bajo incertidumbre",
@@ -47,13 +131,6 @@
     "title": "Energía: transición eléctrica bajo incertidumbre",
     "section": "Limitaciones",
     "text": "Limitaciones\n(Supuestos que simplifican: parámetros ilustrativos, sin costos reales, etc.)"
-  },
-  {
-    "objectID": "proyectos.html",
-    "href": "proyectos.html",
-    "title": "Proyectos",
-    "section": "",
-    "text": "Energía: transición eléctrica bajo incertidumbre\n\n\n\nR\n\n\ndinámica de sistemas\n\n\nenergía\n\n\nincertidumbre\n\n\n\nModelo de dinámica de sistemas con 125 escenarios de demanda, precio de hidrocarburos y llegada de baterías.\n\n\n\nOct 6, 2026\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
