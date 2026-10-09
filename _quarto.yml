@@ -1,21 +1,39 @@
-   project:
-     type: website
+project:
+  type: website
+  resources:
+    - fonts/
 
-   website:
-     title: "Sebastián Llorens"
-     navbar:
-       left:
-         - href: index.qmd
-           text: Inicio
-         - href: proyectos.qmd
-           text: Proyectos
-         - href: about.qmd
-           text: Sobre mí
+website:
+  title: "Sebastián Llorens"
+  navbar:
+    logo: logo.svg
+    logo-alt: "Sebastián Llorens, servicios de investigación"
+    title: false
+    pinned: false
+    right:
+      - href: index.qmd
+        text: inicio
+      - href: proyectos.qmd
+        text: proyectos
+      - href: about.qmd
+        text: sobre mí
+  page-footer:
+    left: "© 2026 Sebastián Llorens Iduñate"
+    right: "ciudad de méxico"
 
-   format:
-     html:
-       theme: cosmo
-       css: styles.css
-       toc: true
-   execute:
-     freeze: auto
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    toc-title: "contenido"
+    toc-depth: 2
+    lang: es
+    grid:
+      body-width: 960px
+      sidebar-width: 220px
+      margin-width: 220px
+      gutter-width: 2rem
+
+execute:
+  freeze: auto

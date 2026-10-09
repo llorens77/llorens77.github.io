@@ -1,6 +1,46 @@
 ---
-title: "Sebastián Llorens"
+pagetitle: "Sebastián Llorens"
+page-layout: full
+title-block-style: none
+toc: false
+listing:
+  id: proyectos-recientes
+  contents: proyectos
+  type: grid
+  grid-columns: 3
+  sort: "date desc"
+  fields: [image, title, description, categories]
+  max-items: 3
 ---
 
-Analista de datos con interés en metodologías interdisciplinarias.
-Aquí encontrarás mis proyectos de visualización, análisis estadístico y modelación.
+::: {.hero}
+
+::: {.hero-texto}
+<p class="etiqueta"><b>portafolio de trabajo</b> [datos. investigación. diseño. escritura.]</p>
+
+# Sebastián Llorens Iduñate
+
+<p class="intro"><b>servicios de investigación</b> {análisis de datos, política pública, texto e imagen} ciudad de méxico</p>
+:::
+
+:::
+
+
+::: {.tira}
+<p class="etiqueta"><b>proyecto 01</b> [oaxaca]</p>
+
+<div class="tira-fila">
+<a href="proyectos/oaxaca/"><img src="proyectos/oaxaca/figuras/07_mapa_regiones.png" alt="Mapa de las siete regiones de Oaxaca"></a>
+<div class="cota"></div>
+<a href="proyectos/oaxaca/"><img src="proyectos/oaxaca/figuras/08_mapa_divergencia.png" alt="Mapas de cambio en superficie y valor de la producción"></a>
+<div class="cota"></div>
+<a href="proyectos/oaxaca/"><img src="proyectos/oaxaca/figuras/09_mapa_temporal_municipal.png" alt="Mapa municipal de superficie bajo temporal"></a>
+</div>
+
+<p class="tira-pie">brechas en la información agrícola de Oaxaca, 2004-2024: qué muestran, y qué no pueden mostrar, los datos oficiales sobre cómo cambió el campo. <a href="proyectos/oaxaca/">leer el proyecto</a></p>
+:::
+
+## proyectos
+
+::: {#proyectos-recientes}
+:::
