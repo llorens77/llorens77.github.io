@@ -1,0 +1,303 @@
+---
+title: "Medición del recurso hídrico en La Laguna"
+subtitle: "La sobreexplotación de los acuíferos de La Laguna y Coahuila"
+author: "Sebastián Llorens"
+date: 2026-02-11
+lang: es
+jupyter: python3
+format:
+  html:
+    toc: true
+    code-fold: true
+    code-summary: "Ver código"
+execute:
+  warning: false
+---
+
+```{python}
+#| label: preparar-datos
+#| include: false
+
+from pathlib import Path
+
+import geopandas as gpd
+import pandas as pd
+import plotly.express as px
+import plotly.graph_objects as go
+
+# --- Lectura -----------------------------------------------------------------
+# El shapefile de acuíferos sobreexplotados de CONAGUA está en datos/crudos/
+archivo_shp = next(Path("datos/crudos").rglob("*.shp"))
+acuiferos = gpd.read_file(archivo_shp)
+
+# --- Acuíferos de Coahuila y variables nuevas --------------------------------
+coahuila = acuiferos[acuiferos["NOM_EDO"].str.upper().str.contains("COAHUILA")].copy()
+
+# Disponibilidad oficial (NOM-011): recarga - descarga comprometida - volumen concesionado
+coahuila["dma_oficial"] = coahuila["DMA_POSITI"] + coahuila["DMA_NEGATI"]
+
+# Misma fórmula, pero con el bombeo estimado en lugar del volumen concesionado
+coahuila["balance_bombeo"] = (
+    coahuila["RECARGA_TO"] - coahuila["DESCARGA_N"] - coahuila["BOMBEO"]
+)
+
+# Cuánto se bombea por encima de lo concesionado
+coahuila["bombeo_sin_concesion"] = coahuila["BOMBEO"] - coahuila["VEAS"]
+
+# Cuántas veces se extrae la recarga anual
+coahuila["indice_explotacion"] = coahuila["BOMBEO"] / coahuila["RECARGA_TO"]
+
+coahuila["nombre"] = coahuila["NOM_ACUI"].str.title()
+
+# --- Cifras para el texto ----------------------------------------------------
+def cifra(x):
+    """Formatea un número con separador de miles y sin decimales."""
+    return f"{x:,.0f}"
+
+laguna = coahuila.set_index("CLV_ACUI").loc["0523"]
+
+recarga_l = cifra(laguna["RECARGA_TO"])
+concesion_l = cifra(laguna["VEAS"])
+bombeo_l = cifra(laguna["BOMBEO"])
+deficit_oficial_l = cifra(-laguna["dma_oficial"])
+faltante_l = cifra(-laguna["balance_bombeo"])
+sin_concesion_l = cifra(laguna["bombeo_sin_concesion"])
+veces_l = f"{laguna['balance_bombeo'] / laguna['dma_oficial']:.1f}"
+indice_l = f"{laguna['indice_explotacion']:.1f}"
+
+n_acuiferos = len(coahuila)
+n_bombeo_mayor = int((coahuila["bombeo_sin_concesion"] > 0).sum())
+total_oficial = cifra(-coahuila["dma_oficial"].sum())
+total_bombeo = cifra(-coahuila["balance_bombeo"].sum())
+
+anios_escenario = 20
+acumulado_l = cifra(-laguna["balance_bombeo"] * anios_escenario)
+anios_recarga_l = f"{-laguna['balance_bombeo'] * anios_escenario / laguna['RECARGA_TO']:.0f}"
+
+# --- Estilo común de los gráficos --------------------------------------------
+COLOR_RECARGA = "#2a7f8f"
+COLOR_CONCESION = "#9a9a9a"
+COLOR_BOMBEO = "#b2392f"
+```
+
+## La pregunta
+
+Un acuífero está sobreexplotado cuando se le saca más agua de la que recibe. Para saber cuánta agua queda disponible, la Comisión Nacional del Agua (CONAGUA) hace una cuenta sencilla: a la **recarga** anual le resta el agua que debe reservarse para manantiales y ríos, y el **volumen concesionado**, es decir, el agua que tiene autorizada para extraer.
+
+Pero la misma CONAGUA publica otra cifra: el **bombeo estimado**, el agua que, según sus estudios, realmente se extrae de los pozos. Este análisis se pregunta qué pasa si hacemos la cuenta con esa cifra.
+
+## El caso de La Laguna
+
+El acuífero Principal-Región Lagunera, que abastece a Torreón, Gómez Palacio y a una de las cuencas lecheras más grandes del país, recibe unos `{python} recarga_l` millones de m³ de agua al año. Tiene concesionados `{python} concesion_l` millones, y se estima que se bombean `{python} bombeo_l` millones.
+
+```{python}
+#| label: fig-laguna
+#| fig-cap: "Recarga, volumen concesionado y bombeo estimado en el acuífero Principal-Región Lagunera (millones de m³ al año)."
+
+datos_laguna = pd.DataFrame({
+    "medida": ["Recarga", "Volumen concesionado", "Bombeo estimado"],
+    "hm3": [laguna["RECARGA_TO"], laguna["VEAS"], laguna["BOMBEO"]],
+})
+
+fig = px.bar(
+    datos_laguna,
+    x="medida",
+    y="hm3",
+    color="medida",
+    text_auto=",.0f",
+    color_discrete_sequence=[COLOR_RECARGA, COLOR_CONCESION, COLOR_BOMBEO],
+    labels={"medida": "", "hm3": "Millones de m³ al año"},
+    template="simple_white",
+)
+fig.add_hline(
+    y=laguna["RECARGA_TO"],
+    line_dash="dot",
+    line_color=COLOR_RECARGA,
+    annotation_text="Lo que el acuífero recibe cada año",
+    annotation_position="top left",
+)
+fig.update_layout(showlegend=False)
+fig.show()
+```
+
+Con esas cifras, el déficit oficial es de `{python} deficit_oficial_l` millones de m³ al año. Si en lugar del volumen concesionado usamos el bombeo estimado, el faltante es de `{python} faltante_l` millones: **`{python} veces_l` veces mayor** que el déficit oficial. Además, se bombean unos `{python} sin_concesion_l` millones de m³ por encima de lo autorizado.
+
+Dicho de otra forma: cada año se extrae `{python} indice_l` veces el agua que el acuífero recibe. La diferencia sale de reservas acumuladas durante miles de años, que no se reponen al ritmo de la extracción.
+
+## No es solo La Laguna
+
+En Coahuila hay `{python} n_acuiferos` acuíferos sobreexplotados. En `{python} n_bombeo_mayor` de ellos el bombeo estimado supera el volumen concesionado. Sumados, su déficit oficial es de `{python} total_oficial` millones de m³ al año; calculado con el bombeo estimado, el faltante es de `{python} total_bombeo` millones.
+
+```{python}
+#| label: fig-comparacion
+#| fig-cap: "Déficit oficial frente al balance calculado con el bombeo estimado, por acuífero (millones de m³ al año). Los valores negativos indican que se extrae más agua de la que entra."
+
+orden = coahuila.sort_values("balance_bombeo", ascending=False)
+
+fig = go.Figure()
+
+# Líneas que unen ambas medidas de cada acuífero
+for _, fila in orden.iterrows():
+    fig.add_trace(go.Scatter(
+        x=[fila["dma_oficial"], fila["balance_bombeo"]],
+        y=[fila["nombre"], fila["nombre"]],
+        mode="lines",
+        line=dict(color="#dddddd", width=4),
+        showlegend=False,
+        hoverinfo="skip",
+    ))
+
+fig.add_trace(go.Scatter(
+    x=orden["dma_oficial"],
+    y=orden["nombre"],
+    mode="markers",
+    name="Déficit oficial (con volumen concesionado)",
+    marker=dict(color=COLOR_CONCESION, size=12),
+    hovertemplate="%{y}<br>Déficit oficial: %{x:,.0f} hm³/año<extra></extra>",
+))
+fig.add_trace(go.Scatter(
+    x=orden["balance_bombeo"],
+    y=orden["nombre"],
+    mode="markers",
+    name="Balance con bombeo estimado",
+    marker=dict(color=COLOR_BOMBEO, size=12),
+    hovertemplate="%{y}<br>Con bombeo estimado: %{x:,.0f} hm³/año<extra></extra>",
+))
+
+fig.add_vline(x=0, line_color="black", line_width=1)
+fig.update_layout(
+    template="simple_white",
+    xaxis_title="Millones de m³ al año",
+    yaxis_title="",
+    legend=dict(orientation="h", y=1.08, x=0),
+    height=160 + 45 * len(orden),
+)
+fig.show()
+```
+
+## Un escenario a 20 años
+
+Estos datos no permiten predecir cuándo se agotará el acuífero: para eso haría falta saber cuánta agua almacena y cómo cambian los niveles de los pozos. Lo que sí podemos hacer es una cuenta simple: **si el bombeo se mantuviera igual**, ¿cuánta agua se extraería de las reservas?
+
+```{python}
+#| label: fig-escenario
+#| fig-cap: "Volumen acumulado extraído de las reservas del acuífero Principal-Región Lagunera si se mantienen las cifras actuales (escenario aritmético, no pronóstico)."
+
+anios = list(range(2023, 2023 + anios_escenario + 1))
+
+escenario = pd.DataFrame({
+    "Año": anios * 2,
+    "Volumen acumulado": (
+        [-laguna["dma_oficial"] * (a - 2023) for a in anios]
+        + [-laguna["balance_bombeo"] * (a - 2023) for a in anios]
+    ),
+    "Medida": (
+        ["Según el déficit oficial"] * len(anios)
+        + ["Según el bombeo estimado"] * len(anios)
+    ),
+})
+
+fig = px.line(
+    escenario,
+    x="Año",
+    y="Volumen acumulado",
+    color="Medida",
+    color_discrete_map={
+        "Según el déficit oficial": COLOR_CONCESION,
+        "Según el bombeo estimado": COLOR_BOMBEO,
+    },
+    labels={"Volumen acumulado": "Millones de m³ extraídos de las reservas"},
+    template="simple_white",
+)
+fig.update_traces(line=dict(width=3))
+fig.update_layout(legend=dict(orientation="h", y=1.1, x=0, title=""))
+fig.show()
+```
+
+Con el bombeo estimado, en `{python} anios_escenario` años se extraerían `{python} acumulado_l` millones de m³ de las reservas: el equivalente a unos `{python} anios_recarga_l` años completos de recarga.
+
+## Mapa de los acuíferos
+
+Haz clic en cada acuífero para ver sus datos.
+
+```{python}
+#| label: mapa
+
+campos = {
+    "nombre": "Acuífero",
+    "CLV_ACUI": "Clave",
+    "AREA_KM2": "Superficie (km²)",
+    "RECARGA_TO": "Recarga (hm³/año)",
+    "DESCARGA_N": "Descarga comprometida (hm³/año)",
+    "VEAS": "Volumen concesionado (hm³/año)",
+    "BOMBEO": "Bombeo estimado (hm³/año)",
+    "dma_oficial": "Déficit oficial (hm³/año)",
+    "balance_bombeo": "Balance con bombeo estimado (hm³/año)",
+    "indice_explotacion": "Índice de explotación (bombeo / recarga)",
+}
+
+tabla_mapa = coahuila[list(campos) + ["geometry"]].rename(columns=campos)
+numericas = tabla_mapa.select_dtypes("number").columns
+tabla_mapa[numericas] = tabla_mapa[numericas].round(2)
+
+tabla_mapa.explore(
+    column="Balance con bombeo estimado (hm³/año)",
+    cmap="Reds_r",
+    tooltip=["Acuífero"],
+    popup=True,
+    tiles="Esri.WorldGrayCanvas",
+    style_kwds={"color": "white", "weight": 1.5, "fillOpacity": 0.75},
+    highlight_kwds={"color": "black", "weight": 3},
+    legend_kwds={"caption": "Balance con bombeo estimado (hm³/año)"},
+)
+```
+
+## Datos por acuífero
+
+```{python}
+#| label: tbl-resumen
+#| tbl-cap: "Acuíferos sobreexplotados de Coahuila (millones de m³ al año)."
+
+resumen = (
+    coahuila
+    .sort_values("balance_bombeo")
+    [["nombre", "RECARGA_TO", "VEAS", "BOMBEO", "dma_oficial",
+      "balance_bombeo", "indice_explotacion"]]
+    .rename(columns={
+        "nombre": "Acuífero",
+        "RECARGA_TO": "Recarga",
+        "VEAS": "Concesionado",
+        "BOMBEO": "Bombeo estimado",
+        "dma_oficial": "Déficit oficial",
+        "balance_bombeo": "Balance con bombeo",
+        "indice_explotacion": "Índice de explotación",
+    })
+)
+
+(
+    resumen.style
+    .hide(axis="index")
+    .format({
+        "Recarga": "{:,.0f}",
+        "Concesionado": "{:,.0f}",
+        "Bombeo estimado": "{:,.0f}",
+        "Déficit oficial": "{:,.0f}",
+        "Balance con bombeo": "{:,.0f}",
+        "Índice de explotación": "{:.2f}",
+    })
+)
+```
+
+## Notas sobre los datos
+
+- **Fuente.** Capa de acuíferos sobreexplotados de CONAGUA, correspondiente a la actualización de disponibilidad publicada en el Diario Oficial de la Federación el 9 de noviembre de 2023. Las cifras están en millones de m³ al año (hm³/año).
+- **Definición de las variables.** El archivo no incluye un diccionario de datos. Las columnas se interpretaron con base en la NOM-011-CONAGUA, que define la disponibilidad como recarga menos descarga natural comprometida menos volumen concesionado. Se comprobó que esa fórmula reproduce la disponibilidad publicada en 111 de los 114 acuíferos del archivo. Los tres que no coinciden (Cuautitlán-Pachuca, Valle de Toluca y Zona Metropolitana de la Ciudad de México) están fuera de Coahuila.
+- **El bombeo es una estimación.** No es una medición directa: CONAGUA lo calcula a partir de censos de pozos y estudios técnicos. Por eso este análisis no sustituye al balance oficial; muestra la distancia entre lo autorizado y lo que se estima que ocurre.
+- **Acuíferos que cruzan estados.** El acuífero Principal-Región Lagunera abarca Coahuila y Durango, pero el archivo lo asigna a un solo estado.
+- **Una sola fotografía.** Los datos corresponden a un solo año. No incluyen niveles de los pozos ni el volumen almacenado, así que no permiten medir el ritmo real de abatimiento ni predecir el agotamiento. El escenario a 20 años es una multiplicación, no un modelo.
+
+## Fuentes
+
+- CONAGUA. Acuíferos sobreexplotados, capa geográfica (actualización DOF, 9 de noviembre de 2023).
+- CONAGUA. *Determinación de la disponibilidad de agua en el acuífero Principal-Región Lagunera* (DR_0523).
+- NOM-011-CONAGUA-2015. Método para determinar la disponibilidad media anual de las aguas nacionales.
