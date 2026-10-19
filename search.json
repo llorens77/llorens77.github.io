@@ -77,34 +77,6 @@
     "text": "Limitaciones\n\nSolo cultivos cíclicos registrados; sin perennes, pastos ni cultivos fuera del registro.\nDatos agregados por municipio, sin parcelas ni productores.\nEl valor depende de los precios que reporta SIAP y del deflactor elegido.\nCinco cortes en el tiempo (2004, 2009, 2014, 2019, 2024), sin los años intermedios.\nLas regiones de SIAP no coinciden del todo con las 8 regiones oficiales del estado.\nLas hipótesis son para orientar la investigación, no se prueban estadísticamente aquí.\n\nFuentes: SIAP, Anuario Estadístico de la Producción Agrícola (nube.agricultura.gob.mx); INEGI, Marco Geoestadístico 2020; Banco Mundial, índice de precios al consumidor de México."
   },
   {
-    "objectID": "proyectos.html",
-    "href": "proyectos.html",
-    "title": "Proyectos",
-    "section": "",
-    "text": "Oaxaca: brechas en la información agrícola, 2004-2024\n\n\n\nR\n\n\nmapas\n\n\nagricultura\n\n\ndatos abiertos\n\n\n\nQué muestran (y qué no pueden mostrar) los datos oficiales de producción agrícola sobre cómo cambió el campo oaxaqueño.\n\n\n\n8 oct 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEnergía: transición eléctrica bajo incertidumbre\n\n\n\nR\n\n\ndinámica de sistemas\n\n\nenergía\n\n\nincertidumbre\n\n\n\nModelo de dinámica de sistemas con 125 escenarios de demanda, precio de hidrocarburos y llegada de baterías.\n\n\n\n6 oct 2026\n\n\n\n\n\n\n\n\nNo hay resultados"
-  },
-  {
-    "objectID": "LEEME.html",
-    "href": "LEEME.html",
-    "title": "Tema del portafolio",
-    "section": "",
-    "text": "Qué cambia: logo en la navegación y en la portada, tipografía (Hanken Grotesk + DM Mono, alojadas en el sitio), rejilla y tarjetas planas, portada con la tira de imágenes con “cotas”.\n\n\n\nHaz una copia de respaldo de _quarto.yml, styles.css e index.qmd de tu carpeta portafolio.\nCopia estos archivos a la raíz de portafolio y reemplaza los que ya existen: _quarto.yml, styles.css, index.qmd, logo.svg, logo.png y la carpeta fonts/.\nNo toca about.qmd, proyectos.qmd ni tus proyectos.\nAbre index.qmd en RStudio y dale Render, o corre quarto preview en la Terminal.\nPara publicar: git add ., git commit -m \"Nuevo tema\", git push y quarto publish gh-pages.\n\n\n\n\n\nColores y espaciados: bloque :root al inicio de styles.css.\nTexto de la portada: index.qmd.\nTextos del menú y del pie: _quarto.yml."
-  },
-  {
-    "objectID": "LEEME.html#cómo-instalarlo",
-    "href": "LEEME.html#cómo-instalarlo",
-    "title": "Tema del portafolio",
-    "section": "",
-    "text": "Haz una copia de respaldo de _quarto.yml, styles.css e index.qmd de tu carpeta portafolio.\nCopia estos archivos a la raíz de portafolio y reemplaza los que ya existen: _quarto.yml, styles.css, index.qmd, logo.svg, logo.png y la carpeta fonts/.\nNo toca about.qmd, proyectos.qmd ni tus proyectos.\nAbre index.qmd en RStudio y dale Render, o corre quarto preview en la Terminal.\nPara publicar: git add ., git commit -m \"Nuevo tema\", git push y quarto publish gh-pages."
-  },
-  {
-    "objectID": "LEEME.html#dónde-se-cambia-cada-cosa",
-    "href": "LEEME.html#dónde-se-cambia-cada-cosa",
-    "title": "Tema del portafolio",
-    "section": "",
-    "text": "Colores y espaciados: bloque :root al inicio de styles.css.\nTexto de la portada: index.qmd.\nTextos del menú y del pie: _quarto.yml."
-  },
-  {
     "objectID": "proyectos/energia/index.html",
     "href": "proyectos/energia/index.html",
     "title": "Energía: transición eléctrica bajo incertidumbre",
@@ -147,17 +119,101 @@
     "text": "Limitaciones\n(Supuestos que simplifican: parámetros ilustrativos, sin costos reales, etc.)"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Sebastián Llorens Iduñate",
+    "objectID": "LEEME.html",
+    "href": "LEEME.html",
+    "title": "Tema del portafolio",
     "section": "",
-    "text": "portafolio de trabajo [datos. investigación. diseño. escritura.]\n\n\n\n\nservicios de investigación {análisis de datos, política pública, texto e imagen} ciudad de méxico"
+    "text": "Qué cambia: logo en la navegación y en la portada, tipografía (Hanken Grotesk + DM Mono, alojadas en el sitio), rejilla y tarjetas planas, portada con la tira de imágenes con “cotas”.\n\n\n\nHaz una copia de respaldo de _quarto.yml, styles.css e index.qmd de tu carpeta portafolio.\nCopia estos archivos a la raíz de portafolio y reemplaza los que ya existen: _quarto.yml, styles.css, index.qmd, logo.svg, logo.png y la carpeta fonts/.\nNo toca about.qmd, proyectos.qmd ni tus proyectos.\nAbre index.qmd en RStudio y dale Render, o corre quarto preview en la Terminal.\nPara publicar: git add ., git commit -m \"Nuevo tema\", git push y quarto publish gh-pages.\n\n\n\n\n\nColores y espaciados: bloque :root al inicio de styles.css.\nTexto de la portada: index.qmd.\nTextos del menú y del pie: _quarto.yml."
   },
   {
-    "objectID": "index.html#proyectos",
-    "href": "index.html#proyectos",
-    "title": "Sebastián Llorens Iduñate",
-    "section": "proyectos",
-    "text": "proyectos\n\n\n\n\n\n\n\n\n\n\nOaxaca: brechas en la información agrícola, 2004-2024\n\n\n\nR\n\n\nmapas\n\n\nagricultura\n\n\ndatos abiertos\n\n\n\nQué muestran (y qué no pueden mostrar) los datos oficiales de producción agrícola sobre cómo cambió el campo oaxaqueño.\n\n\n\n\n\n\n\n\n\n\n\n\n\nEnergía: transición eléctrica bajo incertidumbre\n\n\n\nR\n\n\ndinámica de sistemas\n\n\nenergía\n\n\nincertidumbre\n\n\n\nModelo de dinámica de sistemas con 125 escenarios de demanda, precio de hidrocarburos y llegada de baterías.\n\n\n\n\n\n\n\nNo hay resultados"
+    "objectID": "LEEME.html#cómo-instalarlo",
+    "href": "LEEME.html#cómo-instalarlo",
+    "title": "Tema del portafolio",
+    "section": "",
+    "text": "Haz una copia de respaldo de _quarto.yml, styles.css e index.qmd de tu carpeta portafolio.\nCopia estos archivos a la raíz de portafolio y reemplaza los que ya existen: _quarto.yml, styles.css, index.qmd, logo.svg, logo.png y la carpeta fonts/.\nNo toca about.qmd, proyectos.qmd ni tus proyectos.\nAbre index.qmd en RStudio y dale Render, o corre quarto preview en la Terminal.\nPara publicar: git add ., git commit -m \"Nuevo tema\", git push y quarto publish gh-pages."
+  },
+  {
+    "objectID": "LEEME.html#dónde-se-cambia-cada-cosa",
+    "href": "LEEME.html#dónde-se-cambia-cada-cosa",
+    "title": "Tema del portafolio",
+    "section": "",
+    "text": "Colores y espaciados: bloque :root al inicio de styles.css.\nTexto de la portada: index.qmd.\nTextos del menú y del pie: _quarto.yml."
+  },
+  {
+    "objectID": "proyectos.html",
+    "href": "proyectos.html",
+    "title": "Proyectos",
+    "section": "",
+    "text": "Oaxaca: brechas en la información agrícola, 2004-2024\n\n\n\nR\n\n\nmapas\n\n\nagricultura\n\n\ndatos abiertos\n\n\n\nQué muestran (y qué no pueden mostrar) los datos oficiales de producción agrícola sobre cómo cambió el campo oaxaqueño.\n\n\n\n8 oct 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEnergía: transición eléctrica bajo incertidumbre\n\n\n\nR\n\n\ndinámica de sistemas\n\n\nenergía\n\n\nincertidumbre\n\n\n\nModelo de dinámica de sistemas con 125 escenarios de demanda, precio de hidrocarburos y llegada de baterías.\n\n\n\n6 oct 2026\n\n\n\n\n\n\n\n\n\n\n\n\nMedición del recurso hídrico en La Laguna\n\n\n\n\n\n\n11 feb 2026\n\n\n\n\n\n\n\n\nNo hay resultados"
+  },
+  {
+    "objectID": "proyectos/acuiferos-coahuila/index.html",
+    "href": "proyectos/acuiferos-coahuila/index.html",
+    "title": "Medición del recurso hídrico en La Laguna",
+    "section": "",
+    "text": "Un acuífero está sobreexplotado cuando se le saca más agua de la que recibe. Para saber cuánta agua queda disponible, la Comisión Nacional del Agua (CONAGUA) hace una cuenta sencilla: a la recarga anual le resta el agua que debe reservarse para manantiales y ríos, y el volumen concesionado, es decir, el agua que tiene autorizada para extraer.\nPero la misma CONAGUA publica otra cifra: el bombeo estimado, el agua que, según sus estudios, realmente se extrae de los pozos. Este análisis se pregunta qué pasa si hacemos la cuenta con esa cifra."
+  },
+  {
+    "objectID": "proyectos/acuiferos-coahuila/index.html#la-pregunta",
+    "href": "proyectos/acuiferos-coahuila/index.html#la-pregunta",
+    "title": "Medición del recurso hídrico en La Laguna",
+    "section": "",
+    "text": "Un acuífero está sobreexplotado cuando se le saca más agua de la que recibe. Para saber cuánta agua queda disponible, la Comisión Nacional del Agua (CONAGUA) hace una cuenta sencilla: a la recarga anual le resta el agua que debe reservarse para manantiales y ríos, y el volumen concesionado, es decir, el agua que tiene autorizada para extraer.\nPero la misma CONAGUA publica otra cifra: el bombeo estimado, el agua que, según sus estudios, realmente se extrae de los pozos. Este análisis se pregunta qué pasa si hacemos la cuenta con esa cifra."
+  },
+  {
+    "objectID": "proyectos/acuiferos-coahuila/index.html#el-caso-de-la-laguna",
+    "href": "proyectos/acuiferos-coahuila/index.html#el-caso-de-la-laguna",
+    "title": "Medición del recurso hídrico en La Laguna",
+    "section": "El caso de La Laguna",
+    "text": "El caso de La Laguna\nEl acuífero Principal-Región Lagunera, que abastece a Torreón, Gómez Palacio y a una de las cuencas lecheras más grandes del país, recibe unos 534 millones de m³ de agua al año. Tiene concesionados 646 millones, y se estima que se bombean 1,088 millones.\n\n\nVer código\ndatos_laguna = pd.DataFrame({\n    \"medida\": [\"Recarga\", \"Volumen concesionado\", \"Bombeo estimado\"],\n    \"hm3\": [laguna[\"RECARGA_TO\"], laguna[\"VEAS\"], laguna[\"BOMBEO\"]],\n})\n\nfig = px.bar(\n    datos_laguna,\n    x=\"medida\",\n    y=\"hm3\",\n    color=\"medida\",\n    text_auto=\",.0f\",\n    color_discrete_sequence=[COLOR_RECARGA, COLOR_CONCESION, COLOR_BOMBEO],\n    labels={\"medida\": \"\", \"hm3\": \"Millones de m³ al año\"},\n    template=\"simple_white\",\n)\nfig.add_hline(\n    y=laguna[\"RECARGA_TO\"],\n    line_dash=\"dot\",\n    line_color=COLOR_RECARGA,\n    annotation_text=\"Lo que el acuífero recibe cada año\",\n    annotation_position=\"top left\",\n)\nfig.update_layout(showlegend=False)\nfig.show()\n\n\n\n\n\n\n\n        \n        \n        \n\n\n(a) Recarga, volumen concesionado y bombeo estimado en el acuífero Principal-Región Lagunera (millones de m³ al año).\n\n\n\n\n\n\n                            \n                                            \n\n\n(b)\n\n\n\n\n\nFigura 1\n\n\n\n\nCon esas cifras, el déficit oficial es de 111 millones de m³ al año. Si en lugar del volumen concesionado usamos el bombeo estimado, el faltante es de 554 millones: 5.0 veces mayor que el déficit oficial. Además, se bombean unos 443 millones de m³ por encima de lo autorizado.\nDicho de otra forma: cada año se extrae 2.0 veces el agua que el acuífero recibe. La diferencia sale de reservas acumuladas durante miles de años, que no se reponen al ritmo de la extracción."
+  },
+  {
+    "objectID": "proyectos/acuiferos-coahuila/index.html#no-es-solo-la-laguna",
+    "href": "proyectos/acuiferos-coahuila/index.html#no-es-solo-la-laguna",
+    "title": "Medición del recurso hídrico en La Laguna",
+    "section": "No es solo La Laguna",
+    "text": "No es solo La Laguna\nEn Coahuila hay 7 acuíferos sobreexplotados. En 2 de ellos el bombeo estimado supera el volumen concesionado. Sumados, su déficit oficial es de 273 millones de m³ al año; calculado con el bombeo estimado, el faltante es de 622 millones.\n\n\nVer código\norden = coahuila.sort_values(\"balance_bombeo\", ascending=False)\n\nfig = go.Figure()\n\n# Líneas que unen ambas medidas de cada acuífero\nfor _, fila in orden.iterrows():\n    fig.add_trace(go.Scatter(\n        x=[fila[\"dma_oficial\"], fila[\"balance_bombeo\"]],\n        y=[fila[\"nombre\"], fila[\"nombre\"]],\n        mode=\"lines\",\n        line=dict(color=\"#dddddd\", width=4),\n        showlegend=False,\n        hoverinfo=\"skip\",\n    ))\n\nfig.add_trace(go.Scatter(\n    x=orden[\"dma_oficial\"],\n    y=orden[\"nombre\"],\n    mode=\"markers\",\n    name=\"Déficit oficial (con volumen concesionado)\",\n    marker=dict(color=COLOR_CONCESION, size=12),\n    hovertemplate=\"%{y}&lt;br&gt;Déficit oficial: %{x:,.0f} hm³/año&lt;extra&gt;&lt;/extra&gt;\",\n))\nfig.add_trace(go.Scatter(\n    x=orden[\"balance_bombeo\"],\n    y=orden[\"nombre\"],\n    mode=\"markers\",\n    name=\"Balance con bombeo estimado\",\n    marker=dict(color=COLOR_BOMBEO, size=12),\n    hovertemplate=\"%{y}&lt;br&gt;Con bombeo estimado: %{x:,.0f} hm³/año&lt;extra&gt;&lt;/extra&gt;\",\n))\n\nfig.add_vline(x=0, line_color=\"black\", line_width=1)\nfig.update_layout(\n    template=\"simple_white\",\n    xaxis_title=\"Millones de m³ al año\",\n    yaxis_title=\"\",\n    legend=dict(orientation=\"h\", y=1.08, x=0),\n    height=160 + 45 * len(orden),\n)\nfig.show()\n\n\n\n\n                            \n                                            \n\n\nFigura 2: Déficit oficial frente al balance calculado con el bombeo estimado, por acuífero (millones de m³ al año). Los valores negativos indican que se extrae más agua de la que entra."
+  },
+  {
+    "objectID": "proyectos/acuiferos-coahuila/index.html#un-escenario-a-20-años",
+    "href": "proyectos/acuiferos-coahuila/index.html#un-escenario-a-20-años",
+    "title": "Medición del recurso hídrico en La Laguna",
+    "section": "Un escenario a 20 años",
+    "text": "Un escenario a 20 años\nEstos datos no permiten predecir cuándo se agotará el acuífero: para eso haría falta saber cuánta agua almacena y cómo cambian los niveles de los pozos. Lo que sí podemos hacer es una cuenta simple: si el bombeo se mantuviera igual, ¿cuánta agua se extraería de las reservas?\n\n\nVer código\nanios = list(range(2023, 2023 + anios_escenario + 1))\n\nescenario = pd.DataFrame({\n    \"Año\": anios * 2,\n    \"Volumen acumulado\": (\n        [-laguna[\"dma_oficial\"] * (a - 2023) for a in anios]\n        + [-laguna[\"balance_bombeo\"] * (a - 2023) for a in anios]\n    ),\n    \"Medida\": (\n        [\"Según el déficit oficial\"] * len(anios)\n        + [\"Según el bombeo estimado\"] * len(anios)\n    ),\n})\n\nfig = px.line(\n    escenario,\n    x=\"Año\",\n    y=\"Volumen acumulado\",\n    color=\"Medida\",\n    color_discrete_map={\n        \"Según el déficit oficial\": COLOR_CONCESION,\n        \"Según el bombeo estimado\": COLOR_BOMBEO,\n    },\n    labels={\"Volumen acumulado\": \"Millones de m³ extraídos de las reservas\"},\n    template=\"simple_white\",\n)\nfig.update_traces(line=dict(width=3))\nfig.update_layout(legend=dict(orientation=\"h\", y=1.1, x=0, title=\"\"))\nfig.show()\n\n\n\n\n                            \n                                            \n\n\nFigura 3: Volumen acumulado extraído de las reservas del acuífero Principal-Región Lagunera si se mantienen las cifras actuales (escenario aritmético, no pronóstico).\n\n\n\n\nCon el bombeo estimado, en 20 años se extraerían 11,088 millones de m³ de las reservas: el equivalente a unos 21 años completos de recarga."
+  },
+  {
+    "objectID": "proyectos/acuiferos-coahuila/index.html#mapa-de-los-acuíferos",
+    "href": "proyectos/acuiferos-coahuila/index.html#mapa-de-los-acuíferos",
+    "title": "Medición del recurso hídrico en La Laguna",
+    "section": "Mapa de los acuíferos",
+    "text": "Mapa de los acuíferos\nHaz clic en cada acuífero para ver sus datos.\n\n\nVer código\ncampos = {\n    \"nombre\": \"Acuífero\",\n    \"CLV_ACUI\": \"Clave\",\n    \"AREA_KM2\": \"Superficie (km²)\",\n    \"RECARGA_TO\": \"Recarga (hm³/año)\",\n    \"DESCARGA_N\": \"Descarga comprometida (hm³/año)\",\n    \"VEAS\": \"Volumen concesionado (hm³/año)\",\n    \"BOMBEO\": \"Bombeo estimado (hm³/año)\",\n    \"dma_oficial\": \"Déficit oficial (hm³/año)\",\n    \"balance_bombeo\": \"Balance con bombeo estimado (hm³/año)\",\n    \"indice_explotacion\": \"Índice de explotación (bombeo / recarga)\",\n}\n\ntabla_mapa = coahuila[list(campos) + [\"geometry\"]].rename(columns=campos)\nnumericas = tabla_mapa.select_dtypes(\"number\").columns\ntabla_mapa[numericas] = tabla_mapa[numericas].round(2)\n\ntabla_mapa.explore(\n    column=\"Balance con bombeo estimado (hm³/año)\",\n    cmap=\"Reds_r\",\n    tooltip=[\"Acuífero\"],\n    popup=True,\n    tiles=\"Esri.WorldGrayCanvas\",\n    style_kwds={\"color\": \"white\", \"weight\": 1.5, \"fillOpacity\": 0.75},\n    highlight_kwds={\"color\": \"black\", \"weight\": 3},\n    legend_kwds={\"caption\": \"Balance con bombeo estimado (hm³/año)\"},\n)\n\n\nMake this Notebook Trusted to load map: File -&gt; Trust Notebook"
+  },
+  {
+    "objectID": "proyectos/acuiferos-coahuila/index.html#datos-por-acuífero",
+    "href": "proyectos/acuiferos-coahuila/index.html#datos-por-acuífero",
+    "title": "Medición del recurso hídrico en La Laguna",
+    "section": "Datos por acuífero",
+    "text": "Datos por acuífero\n\n\nVer código\nresumen = (\n    coahuila\n    .sort_values(\"balance_bombeo\")\n    [[\"nombre\", \"RECARGA_TO\", \"VEAS\", \"BOMBEO\", \"dma_oficial\",\n      \"balance_bombeo\", \"indice_explotacion\"]]\n    .rename(columns={\n        \"nombre\": \"Acuífero\",\n        \"RECARGA_TO\": \"Recarga\",\n        \"VEAS\": \"Concesionado\",\n        \"BOMBEO\": \"Bombeo estimado\",\n        \"dma_oficial\": \"Déficit oficial\",\n        \"balance_bombeo\": \"Balance con bombeo\",\n        \"indice_explotacion\": \"Índice de explotación\",\n    })\n)\n\n(\n    resumen.style\n    .hide(axis=\"index\")\n    .format({\n        \"Recarga\": \"{:,.0f}\",\n        \"Concesionado\": \"{:,.0f}\",\n        \"Bombeo estimado\": \"{:,.0f}\",\n        \"Déficit oficial\": \"{:,.0f}\",\n        \"Balance con bombeo\": \"{:,.0f}\",\n        \"Índice de explotación\": \"{:.2f}\",\n    })\n)\n\n\n\n\nTabla 1: Acuíferos sobreexplotados de Coahuila (millones de m³ al año).\n\n\n\n\n\n\n\n\nAcuífero\nRecarga\nConcesionado\nBombeo estimado\nDéficit oficial\nBalance con bombeo\nÍndice de explotación\n\n\n\n\nPrincipal-Región Lagunera\n534\n646\n1,088\n-111\n-554\n2.04\n\n\nLa Paila\n21\n76\n49\n-54\n-28\n2.29\n\n\nRegión Manzanera-Zapalinamé\n55\n90\n70\n-38\n-18\n1.27\n\n\nParedón\n24\n59\n30\n-39\n-10\n1.28\n\n\nLas Delicias\n6\n6\n14\n0\n-8\n2.27\n\n\nEl Hundido\n20\n24\n22\n-4\n-2\n1.09\n\n\nSaltillo Sur\n13\n40\n15\n-27\n-1\n1.09"
+  },
+  {
+    "objectID": "proyectos/acuiferos-coahuila/index.html#notas-sobre-los-datos",
+    "href": "proyectos/acuiferos-coahuila/index.html#notas-sobre-los-datos",
+    "title": "Medición del recurso hídrico en La Laguna",
+    "section": "Notas sobre los datos",
+    "text": "Notas sobre los datos\n\nFuente. Capa de acuíferos sobreexplotados de CONAGUA, correspondiente a la actualización de disponibilidad publicada en el Diario Oficial de la Federación el 9 de noviembre de 2023. Las cifras están en millones de m³ al año (hm³/año).\nDefinición de las variables. El archivo no incluye un diccionario de datos. Las columnas se interpretaron con base en la NOM-011-CONAGUA, que define la disponibilidad como recarga menos descarga natural comprometida menos volumen concesionado. Se comprobó que esa fórmula reproduce la disponibilidad publicada en 111 de los 114 acuíferos del archivo. Los tres que no coinciden (Cuautitlán-Pachuca, Valle de Toluca y Zona Metropolitana de la Ciudad de México) están fuera de Coahuila.\nEl bombeo es una estimación. No es una medición directa: CONAGUA lo calcula a partir de censos de pozos y estudios técnicos. Por eso este análisis no sustituye al balance oficial; muestra la distancia entre lo autorizado y lo que se estima que ocurre.\nAcuíferos que cruzan estados. El acuífero Principal-Región Lagunera abarca Coahuila y Durango, pero el archivo lo asigna a un solo estado.\nUna sola fotografía. Los datos corresponden a un solo año. No incluyen niveles de los pozos ni el volumen almacenado, así que no permiten medir el ritmo real de abatimiento ni predecir el agotamiento. El escenario a 20 años es una multiplicación, no un modelo."
+  },
+  {
+    "objectID": "proyectos/acuiferos-coahuila/index.html#fuentes",
+    "href": "proyectos/acuiferos-coahuila/index.html#fuentes",
+    "title": "Medición del recurso hídrico en La Laguna",
+    "section": "Fuentes",
+    "text": "Fuentes\n\nCONAGUA. Acuíferos sobreexplotados, capa geográfica (actualización DOF, 9 de noviembre de 2023).\nCONAGUA. Determinación de la disponibilidad de agua en el acuífero Principal-Región Lagunera (DR_0523).\nNOM-011-CONAGUA-2015. Método para determinar la disponibilidad media anual de las aguas nacionales."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Sebastián Llorens",
+    "section": "",
+    "text": "Analista de datos con interés en metodologías interdisciplinarias. Aquí encontrarás mis proyectos de visualización, análisis estadístico y modelación."
   }
 ]
