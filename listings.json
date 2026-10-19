@@ -6,5 +6,13 @@
       "/proyectos/energia/index.html",
       "/proyectos/acuiferos-coahuila/index.html"
     ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/proyectos/oaxaca/index.html",
+      "/proyectos/energia/index.html",
+      "/proyectos/acuiferos-coahuila/index.html"
+    ]
   }
 ]
