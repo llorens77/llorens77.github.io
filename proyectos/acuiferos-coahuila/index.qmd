@@ -3,6 +3,9 @@ title: "Medición del recurso hídrico en La Laguna"
 subtitle: "La sobreexplotación de los acuíferos de La Laguna y Coahuila"
 author: "Sebastián Llorens"
 date: 2026-02-11
+description: "El déficit oficial compara la recarga con lo concesionado; con el bombeo estimado, el faltante en La Laguna es casi cinco veces mayor."
+categories: [Python, mapas, agua, datos abiertos]
+image: portada.png
 lang: es
 jupyter: python3
 format:
