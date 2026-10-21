@@ -16,11 +16,11 @@ listing:
 ::: {.hero}
 
 ::: {.hero-texto}
-<p class="etiqueta"><b>portafolio de trabajo</b> [datos. investigación. diseño. escritura.]</p>
+<p class="etiqueta"><b>portafolio de trabajo</b> [datos. investigación.]</p>
 
 # Sebastián Llorens Iduñate
 
-<p class="intro"><b>servicios de investigación</b> {análisis de datos, política pública, texto e imagen} ciudad de méxico</p>
+<p class="intro"> CDMX</p>
 :::
 
 :::
