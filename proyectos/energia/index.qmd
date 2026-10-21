@@ -24,11 +24,3 @@ Modelo de dinámica de sistemas (stock-and-flow) resuelto con `deSolve`. Se simu
 ```{r}
 #| file: EnerMX_analisis.R
 ```
-
-## Conclusiones
-
-(Aquí van 3 o 4 hallazgos en tus palabras.)
-
-## Limitaciones
-
-(Supuestos que simplifican: parámetros ilustrativos, sin costos reales, etc.)
