@@ -24,3 +24,29 @@ Modelo de dinámica de sistemas (stock-and-flow) resuelto con `deSolve`. Se simu
 ```{r}
 #| file: EnerMX_analisis.R
 ```
+
+## Interpretación de resultados
+
+### Las baterías reducen la capacidad que hace falta construir
+
+En la mayoría de los escenarios, el sistema con baterías termina el horizonte con **menos capacidad instalada**, sobre todo fósil. La razón está en la estructura del modelo: cuando llega el choque tecnológico, cada gigawatt no fósil genera el doble de energía. La brecha entre demanda y generación se reduce, y la retroalimentación de confiabilidad frena la inversión. Se necesitan menos plantas para producir la misma energía.
+
+El efecto es más fuerte en la generación fósil privada. Sin baterías, su capacidad crece de forma sostenida durante todo el periodo. Con baterías, se estanca y después baja, porque la generación no fósil se vuelve más barata en términos relativos y desplaza la inversión.
+
+La capacidad pública, fósil y no fósil, disminuye en todos los escenarios. Con los costos y montos de inversión supuestos, la inversión pública no alcanza para reponer las plantas que llegan al final de su vida útil, y la nueva capacidad queda en manos privadas.
+
+### El déficit es persistente, con o sin baterías
+
+Sin baterías, la generación no cubre la demanda en **ninguno de los 125 escenarios, durante todo el horizonte**. Con baterías, el déficit sigue presente cerca del **88 % del tiempo** (mediana; entre 83 % y 90 % según el escenario).
+
+Las baterías alivian el problema, pero no lo resuelven. El modelo sugiere que el cuello de botella no es solo tecnológico: el ritmo de inversión es insuficiente frente al crecimiento de la demanda.
+
+### Lo que este modelo no dice
+
+- **Es un modelo de exploración, no de pronóstico.** Sirve para comparar políticas entre muchos futuros posibles, no para estimar la capacidad real de un año concreto.
+- **Los resultados dependen de supuestos clave:**
+  - que el alza de los hidrocarburos encarezca la generación fósil;
+  - la retroalimentación de confiabilidad, que se agregó al modelo original;
+  - las curvas de efecto entre tecnologías y sectores, definidas de forma estilizada.
+- **El factor de emisión es de 1 tCO₂ por MWh,** un valor cercano al del carbón y más alto que el del gas natural. Esto probablemente sobrestima las emisiones absolutas. La comparación entre políticas es más robusta que los niveles.
+- **El choque de baterías se modela como un salto instantáneo** que duplica el factor de planta. En la realidad, la adopción sería gradual.
